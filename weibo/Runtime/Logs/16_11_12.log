@@ -1,0 +1,3098 @@
+[ 2016-11-12T09:27:39+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000977s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002733s ]
+SQL: select * from sw_manager where mg_id=3 [ RunTime:0.000996s ]
+SQL: select * from sw_role where role_id=2 [ RunTime:0.000306s ]
+SQL: select * from sw_auth where auth_level=0 and auth_id in (1,4,5,6,7,2,8,9,10) [ RunTime:0.000436s ]
+SQL: select * from sw_auth where auth_level=1 and auth_id in (1,4,5,6,7,2,8,9,10) [ RunTime:0.000213s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013096s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013166s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000466s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001088s ]
+
+[ 2016-11-12T09:31:59+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000908s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002718s ]
+SQL: select * from sw_manager where mg_id=3 [ RunTime:0.000449s ]
+SQL: select * from sw_role where role_id=2 [ RunTime:0.000264s ]
+SQL: select * from sw_auth where auth_level=0 and auth_id in (1,4,5,6,7,2,8,9,10) [ RunTime:0.000260s ]
+SQL: select * from sw_auth where auth_level=1 and auth_id in (1,4,5,6,7,2,8,9,10) [ RunTime:0.000213s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012275s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012356s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000582s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000631s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001228s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001338s ]
+
+[ 2016-11-12T09:35:57+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000933s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002751s ]
+SQL: select * from sw_manager where mg_id=3 [ RunTime:0.000403s ]
+SQL: select * from sw_role where role_id=2 [ RunTime:0.000170s ]
+SQL: select * from sw_auth where auth_level=0 and auth_id in (1,4,5,6,7,2,8,9,10) [ RunTime:0.000249s ]
+SQL: select * from sw_auth where auth_level=1 and auth_id in (1,4,5,6,7,2,8,9,10) [ RunTime:0.000214s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012261s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012334s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000611s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000671s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001085s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001206s ]
+
+[ 2016-11-12T09:37:22+08:00 ] ::1 /app/weibo/index.php/Admin/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000637s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000009s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001583s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007686s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007791s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000525s ]
+
+[ 2016-11-12T09:37:22+08:00 ] ::1 /app/weibo/index.php/Admin/Index/right
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000894s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000014s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002285s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.015654s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015794s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000183s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000541s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000607s ]
+
+[ 2016-11-12T09:37:22+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000944s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000014s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002299s ]
+SQL: select * from sw_manager where mg_id=3 [ RunTime:0.000818s ]
+SQL: select * from sw_role where role_id=2 [ RunTime:0.000517s ]
+SQL: select * from sw_auth where auth_level=0 and auth_id in (1,4,5,6,7,2,8,9,10) [ RunTime:0.000493s ]
+SQL: select * from sw_auth where auth_level=1 and auth_id in (1,4,5,6,7,2,8,9,10) [ RunTime:0.000485s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.019743s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019837s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000203s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.006817s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006925s ]
+
+[ 2016-11-12T09:37:22+08:00 ] ::1 /app/weibo/index.php/Admin/Index/head
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000972s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000013s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001771s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.015731s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015860s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000220s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001046s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001158s ]
+
+[ 2016-11-12T09:37:42+08:00 ] ::1 /app/weibo/index.php/Admin/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000473s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001345s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007750s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007834s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000156s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000715s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000810s ]
+
+[ 2016-11-12T09:37:42+08:00 ] ::1 /app/weibo/index.php/Admin/Manager/verifyImage
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000686s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000016s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000595s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000676s ]
+
+[ 2016-11-12T09:37:51+08:00 ] ::1 /app/weibo/index.php/Admin/Manager/verifyImage?0.8358718198014643
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000729s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000062s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001892s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000682s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000765s ]
+
+[ 2016-11-12T09:37:52+08:00 ] ::1 /app/weibo/index.php/Admin/Manager/verifyImage?0.8358718198014643?0.7594040897963616
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000342s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001081s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000505s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000589s ]
+
+[ 2016-11-12T09:37:53+08:00 ] ::1 /app/weibo/index.php/Admin/Manager/verifyImage?0.8358718198014643?0.7594040897963616?0.522064375512429
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000326s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000928s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000582s ]
+
+[ 2016-11-12T09:37:54+08:00 ] ::1 /app/weibo/index.php/Admin/Manager/verifyImage?0.8358718198014643?0.7594040897963616?0.522064375512429?0.8132605429187196
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000341s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000905s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000619s ]
+
+[ 2016-11-12T09:38:03+08:00 ] ::1 /app/weibo/index.php/Admin/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000456s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000005s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001266s ]
+SQL: DESCRIBE sw_manager [ RunTime:0.004240s ]
+SQL: SELECT * FROM `sw_manager` WHERE ( `mg_name` = 'tom' ) LIMIT 1   [ RunTime:0.000267s ]
+
+[ 2016-11-12T09:38:03+08:00 ] ::1 /app/weibo/index.php/Admin/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000312s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000842s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004704s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004754s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000115s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000367s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000406s ]
+
+[ 2016-11-12T09:38:03+08:00 ] ::1 /app/weibo/index.php/Admin/Index/right
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000554s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000012s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001479s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010870s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010962s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000180s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000614s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000701s ]
+
+[ 2016-11-12T09:38:03+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000554s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000012s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001452s ]
+SQL: select * from sw_manager where mg_id=2 [ RunTime:0.000637s ]
+SQL: select * from sw_role where role_id=1 [ RunTime:0.001207s ]
+SQL: select * from sw_auth where auth_level=0 and auth_id in (1,4,19,5,6,2,8,9,3,11,12) [ RunTime:0.002040s ]
+SQL: select * from sw_auth where auth_level=1 and auth_id in (1,4,19,5,6,2,8,9,3,11,12) [ RunTime:0.001074s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000248s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.023593s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023714s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000258s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000972s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001214s ]
+
+[ 2016-11-12T09:38:03+08:00 ] ::1 /app/weibo/index.php/Admin/Index/head
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000588s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000013s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001622s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.011049s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000210s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000662s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000757s ]
+
+[ 2016-11-12T09:47:34+08:00 ] ::1 /app/weibo/index.php/Admin/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000827s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002208s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007732s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007801s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000448s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000751s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000790s ]
+
+[ 2016-11-12T09:47:34+08:00 ] ::1 /app/weibo/index.php/Admin/Manager/verifyImage
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000631s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000015s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002715s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000853s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000972s ]
+
+[ 2016-11-12T09:47:43+08:00 ] ::1 /app/weibo/index.php/Admin/Manager/verifyImage?0.44488880948625287
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000388s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000997s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000490s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000566s ]
+
+[ 2016-11-12T09:47:51+08:00 ] ::1 /app/weibo/index.php/Admin/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000317s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000006s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000867s ]
+SQL: DESCRIBE sw_manager [ RunTime:0.002620s ]
+SQL: SELECT * FROM `sw_manager` WHERE ( `mg_name` = 'admin' ) LIMIT 1   [ RunTime:0.000274s ]
+
+[ 2016-11-12T09:47:51+08:00 ] ::1 /app/weibo/index.php/Admin/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000318s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+
+[ 2016-11-12T09:51:50+08:00 ] ::1 /app/weibo/index.php/Admin/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000826s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002328s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006647s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006703s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000483s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001087s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001143s ]
+
+[ 2016-11-12T09:51:50+08:00 ] ::1 /app/weibo/index.php/Admin/Index/head
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000563s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000014s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001558s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007074s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007152s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000608s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000690s ]
+
+[ 2016-11-12T09:51:50+08:00 ] ::1 /app/weibo/index.php/Admin/Index/right
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000586s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000013s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001958s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009182s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009439s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000141s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000596s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000708s ]
+
+[ 2016-11-12T09:51:50+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000549s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000013s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001552s ]
+SQL: select * from sw_manager where mg_id=1 [ RunTime:0.000461s ]
+SQL: select * from sw_role where role_id=0 [ RunTime:0.000741s ]
+NOTIC: [8] Undefined offset: 0 /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Admin/Controller/IndexController.class.php 第 24 行.
+SQL: select * from sw_auth where auth_level=0  [ RunTime:0.003822s ]
+SQL: select * from sw_auth where auth_level=1  [ RunTime:0.004455s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000204s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.039970s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040101s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000208s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000735s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000860s ]
+
+[ 2016-11-12T10:37:15+08:00 ] ::1 /app/weibo/index.php/Admin/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000761s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002082s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007971s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008047s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000552s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000920s ]
+
+[ 2016-11-12T10:37:15+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000605s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000015s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.003918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005123s ]
+SQL: select * from sw_manager where mg_id=1 [ RunTime:0.000362s ]
+SQL: select * from sw_role where role_id=0 [ RunTime:0.000221s ]
+SQL: select * from sw_auth where auth_level=0  [ RunTime:0.000229s ]
+SQL: select * from sw_auth where auth_level=1  [ RunTime:0.000343s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.016243s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016307s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000229s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000674s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000780s ]
+
+[ 2016-11-12T10:37:15+08:00 ] ::1 /app/weibo/index.php/Admin/Index/head
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000646s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000013s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001633s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013652s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013788s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000455s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000697s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000794s ]
+
+[ 2016-11-12T10:37:16+08:00 ] ::1 /app/weibo/index.php/Admin/Index/right
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000606s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000015s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.002037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003310s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000172s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010898s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011016s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000225s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000646s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000739s ]
+
+[ 2016-11-12T10:37:31+08:00 ] ::1 /app/weibo/index.php/Admin/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000339s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008744s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008843s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000587s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000636s ]
+
+[ 2016-11-12T10:37:43+08:00 ] ::1 /app/weibo/index.php/Admin/Manager/verifyImage?0.11104772213853487
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000357s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000962s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000469s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000542s ]
+
+[ 2016-11-12T10:37:44+08:00 ] ::1 /app/weibo/index.php/Admin/Manager/verifyImage?0.11104772213853487?0.8876119209763174
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000330s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000864s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000354s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000406s ]
+
+[ 2016-11-12T10:37:45+08:00 ] ::1 /app/weibo/index.php/Admin/Manager/verifyImage?0.11104772213853487?0.8876119209763174?0.47812814451476693
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000310s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000840s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000735s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000844s ]
+
+[ 2016-11-12T10:37:51+08:00 ] ::1 /app/weibo/index.php/Admin/Manager/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000399s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000006s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001011s ]
+SQL: DESCRIBE sw_manager [ RunTime:0.001548s ]
+SQL: SELECT * FROM `sw_manager` WHERE ( `mg_name` = 'linken' ) LIMIT 1   [ RunTime:0.000236s ]
+
+[ 2016-11-12T10:37:51+08:00 ] ::1 /app/weibo/index.php/Admin/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000314s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004400s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004458s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000109s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000380s ]
+
+[ 2016-11-12T10:37:52+08:00 ] ::1 /app/weibo/index.php/Admin/Index/head
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000582s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000015s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001589s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007453s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007547s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000178s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000626s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000710s ]
+
+[ 2016-11-12T10:37:52+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000526s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000014s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001475s ]
+SQL: select * from sw_manager where mg_id=3 [ RunTime:0.000499s ]
+SQL: select * from sw_role where role_id=2 [ RunTime:0.001353s ]
+SQL: select * from sw_auth where auth_level=0  [ RunTime:0.000485s ]
+SQL: select * from sw_auth where auth_level=1  [ RunTime:0.003208s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.017173s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017301s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000497s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000942s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001103s ]
+
+[ 2016-11-12T10:37:52+08:00 ] ::1 /app/weibo/index.php/Admin/Index/right
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000569s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000014s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001503s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010054s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010182s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000219s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000700s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000800s ]
+
+[ 2016-11-12T10:38:57+08:00 ] ::1 /app/weibo/index.php/Admin/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000873s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002228s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006432s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006489s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000554s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000830s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000875s ]
+
+[ 2016-11-12T10:38:57+08:00 ] ::1 /app/weibo/index.php/Admin/Index/head
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000593s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000014s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001580s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001734s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012448s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012587s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000313s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001935s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002088s ]
+
+[ 2016-11-12T10:38:57+08:00 ] ::1 /app/weibo/index.php/Admin/Index/right
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000534s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000012s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001434s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009246s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009375s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000204s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000622s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000707s ]
+
+[ 2016-11-12T10:38:57+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000630s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000014s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001725s ]
+SQL: select * from sw_manager where mg_id=3 [ RunTime:0.000333s ]
+SQL: select * from sw_role where role_id=2 [ RunTime:0.000206s ]
+SQL: select * from sw_auth where auth_level=0  [ RunTime:0.000223s ]
+SQL: select * from sw_auth where auth_level=1  [ RunTime:0.000351s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.028540s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028667s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000426s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000773s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001760s ]
+
+[ 2016-11-12T10:38:58+08:00 ] ::1 /app/weibo/index.php/Admin/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000382s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000013s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001117s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004398s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004452s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2016-11-12T10:38:58+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000563s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000014s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001524s ]
+SQL: select * from sw_manager where mg_id=3 [ RunTime:0.000398s ]
+SQL: select * from sw_role where role_id=2 [ RunTime:0.000351s ]
+SQL: select * from sw_auth where auth_level=0  [ RunTime:0.000655s ]
+SQL: select * from sw_auth where auth_level=1  [ RunTime:0.001039s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012223s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012331s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000225s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000675s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000773s ]
+
+[ 2016-11-12T10:38:58+08:00 ] ::1 /app/weibo/index.php/Admin/Index/head
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000678s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000014s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001739s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000335s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008331s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008470s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000231s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000740s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001318s ]
+
+[ 2016-11-12T10:38:58+08:00 ] ::1 /app/weibo/index.php/Admin/Index/right
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000570s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000014s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001688s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000208s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012157s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012414s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000389s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000502s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000898s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001003s ]
+
+[ 2016-11-12T14:50:35+08:00 ] ::1 /app/weibo/index.php/Admin/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001181s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000014s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000950s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003096s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010409s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010503s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000518s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000886s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000949s ]
+
+[ 2016-11-12T14:50:35+08:00 ] ::1 /app/weibo/index.php/Admin/Index/head
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001031s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000015s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.001973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003598s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006482s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006578s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001688s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001813s ]
+
+[ 2016-11-12T14:50:35+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000819s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000015s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002353s ]
+SQL: select * from sw_manager where mg_id=3 [ RunTime:0.001541s ]
+SQL: select * from sw_role where role_id=2 [ RunTime:0.000831s ]
+SQL: select * from sw_auth where auth_level=0 and auth_id in (1,4,5) [ RunTime:0.001182s ]
+SQL: select * from sw_auth where auth_level=1 and auth_id in (1,4,5) [ RunTime:0.000570s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000287s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.015284s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015404s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000158s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000927s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001026s ]
+
+[ 2016-11-12T14:50:35+08:00 ] ::1 /app/weibo/index.php/Admin/Index/right
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000814s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000015s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002352s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000260s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.016203s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016351s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000221s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000821s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000936s ]
+
+[ 2016-11-12T14:59:27+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000759s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002167s ]
+SQL: select * from sw_manager where mg_id=3 [ RunTime:0.000364s ]
+SQL: select * from sw_role where role_id=2 [ RunTime:0.000235s ]
+SQL: select * from sw_auth where auth_level=0 and auth_id in (1,4,5) [ RunTime:0.000287s ]
+SQL: select * from sw_auth where auth_level=1 and auth_id in (1,4,5) [ RunTime:0.000255s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012730s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012816s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000545s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001159s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001265s ]
+
+[ 2016-11-12T15:25:50+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000769s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002314s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.002592s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sw_goods` LIMIT 1   [ RunTime:0.004447s ]
+SQL: select * from sw_goods Limit 0, 7 [ RunTime:0.003508s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009774s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009854s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000571s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000639s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001178s ]
+
+[ 2016-11-12T15:26:23+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/showlist?&page=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000418s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001162s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.001869s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sw_goods` LIMIT 1   [ RunTime:0.000252s ]
+SQL: select * from sw_goods Limit 7, 7 [ RunTime:0.000452s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007315s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007388s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000219s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000700s ]
+
+[ 2016-11-12T15:26:26+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/showlist?&page=6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000615s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000013s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001633s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.001930s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sw_goods` LIMIT 1   [ RunTime:0.000328s ]
+SQL: select * from sw_goods Limit 35, 7 [ RunTime:0.000378s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006337s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006387s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000243s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000836s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001002s ]
+
+[ 2016-11-12T15:26:33+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/showlist?&page=17
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000611s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000009s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001618s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.001518s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sw_goods` LIMIT 1   [ RunTime:0.000310s ]
+SQL: select * from sw_goods Limit 112, 7 [ RunTime:0.000367s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006867s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006950s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000463s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001250s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001380s ]
+
+[ 2016-11-12T15:26:36+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/showlist?&page=16
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000441s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000009s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001171s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.001681s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sw_goods` LIMIT 1   [ RunTime:0.000247s ]
+SQL: select * from sw_goods Limit 105, 7 [ RunTime:0.000402s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008194s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008308s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000207s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000765s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000899s ]
+
+[ 2016-11-12T15:26:48+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/showlist?&page=12
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000380s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.003246s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sw_goods` LIMIT 1   [ RunTime:0.000272s ]
+SQL: select * from sw_goods Limit 77, 7 [ RunTime:0.000434s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006683s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006769s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000207s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000606s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000716s ]
+
+[ 2016-11-12T15:27:13+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/showlist?&page=17
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000491s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001247s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.002769s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sw_goods` LIMIT 1   [ RunTime:0.000338s ]
+SQL: select * from sw_goods Limit 112, 7 [ RunTime:0.000415s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007059s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007217s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000177s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000469s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000522s ]
+
+[ 2016-11-12T15:31:56+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/upd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000777s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002160s ]
+ERR: 参数错误或者未定义:goods_id
+
+[ 2016-11-12T15:33:04+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000373s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001040s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.003140s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+NOTIC: [8] Undefined variable: _v /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/70cf92985ca8dfd5f70b0b5942b0dedb.php 第 34 行.
+NOTIC: [8] Undefined variable: _v /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/70cf92985ca8dfd5f70b0b5942b0dedb.php 第 34 行.
+NOTIC: [8] Undefined variable: _v /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/70cf92985ca8dfd5f70b0b5942b0dedb.php 第 45 行.
+NOTIC: [8] Undefined variable: _v /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/70cf92985ca8dfd5f70b0b5942b0dedb.php 第 45 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010280s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010351s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000573s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000621s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001202s ]
+
+[ 2016-11-12T15:33:13+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/upd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000541s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001469s ]
+ERR: 参数错误或者未定义:goods_id
+
+[ 2016-11-12T15:34:23+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/upd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000794s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000009s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002701s ]
+ERR: 参数错误或者未定义:goods_id
+
+[ 2016-11-12T15:36:30+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/upd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000389s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001063s ]
+ERR: 参数错误或者未定义:goods_id
+
+[ 2016-11-12T15:42:05+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/add
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000919s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000009s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002462s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.002667s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+NOTIC: [8] Undefined variable: _v /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/70cf92985ca8dfd5f70b0b5942b0dedb.php 第 34 行.
+NOTIC: [8] Undefined variable: _v /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/70cf92985ca8dfd5f70b0b5942b0dedb.php 第 34 行.
+NOTIC: [8] Undefined variable: _v /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/70cf92985ca8dfd5f70b0b5942b0dedb.php 第 45 行.
+NOTIC: [8] Undefined variable: _v /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/70cf92985ca8dfd5f70b0b5942b0dedb.php 第 45 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009497s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009563s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000507s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001150s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001228s ]
+
+[ 2016-11-12T15:42:14+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000569s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000009s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001498s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.001588s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sw_goods` LIMIT 1   [ RunTime:0.000306s ]
+SQL: select * from sw_goods Limit 0, 7 [ RunTime:0.000606s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007715s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007794s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000146s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000797s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000938s ]
+
+[ 2016-11-12T15:43:19+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000524s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001591s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.001681s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sw_goods` LIMIT 1   [ RunTime:0.000268s ]
+SQL: select * from sw_goods Limit 0, 7 [ RunTime:0.000531s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000177s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000258s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007747s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007815s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000579s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000669s ]
+
+[ 2016-11-12T15:43:24+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/upd/goods_id/8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000327s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000881s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.002958s ]
+SQL: SELECT * FROM `sw_goods` WHERE ( `goods_id` = 8 ) LIMIT 1   [ RunTime:0.000375s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006354s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006419s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2016-11-12T16:06:55+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/upd/goods_id/8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001058s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.001019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003138s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.006579s ]
+SQL: UPDATE `sw_goods` SET `goods_name`='rrtyrt',`goods_category_id`=0,`goods_brand_id`=0,`goods_price`='65756.00',`goods_introduce`='&lt;p align=&quot;left&quot;&gt;作为一款性价比极高的入门级&lt;font size=&quot;3&quot; color=&quot;#ff0000&quot;&gt;&lt;strong&gt;商务手机&lt;/strong&gt;&lt;/font&gt;，飞利浦&lt;a href=&quot;mailto:9@9v&quot;&gt;Xenium  9@9v&lt;/a&gt;三围大小为105×44×15.8mm，机身重量仅为&lt;strong&gt;&lt;font size=&quot;3&quot; color=&quot;#ff0000&quot;&gt;75g&lt;/font&gt;&lt;/strong&gt;，装配了一块低规格1.75英寸128×160像素65000色CSTN显示屏。身正面采用月银色功能键区与屏幕数字键区相分隔，键盘设计较为&lt;font size=&quot;3&quot;&gt;&lt;strong&gt;&lt;font color=&quot;#ff0000&quot;&gt;别&lt;/font&gt;&lt;font color=&quot;#ff0000&quot;&gt;致&lt;/font&gt;&lt;/strong&gt;&lt;/font&gt;，中部导航键区采用钛金色的“腰带”彰显出浓郁的商务气息。&lt;/p&gt;
+&lt;p align=&quot;left&quot;&gt; &lt;/p&gt;
+&lt;p align=&quot;left&quot;&gt;此款手机采用&lt;strong&gt;&lt;font size=&quot;3&quot; color=&quot;#ff0000&quot;&gt;触摸屏&lt;/font&gt;&lt;/strong&gt;设计，搭配精致的手写笔，可支持手写中文和英文两个版本。增强的内置系统还能识别潦草字迹，确保在移动中和匆忙时输入文字的识别率。手写指令功能还支持特定图案的瞬间调用，独特的手写记事本功能，可以在触摸屏上随意绘制个性化的图案并进行&lt;strong&gt;&lt;font size=&quot;3&quot; color=&quot;#ff0000&quot;&gt;记事提醒&lt;/font&gt;&lt;/strong&gt;，让商务应用更加随意。&lt;/p&gt;
+&lt;p align=&quot;left&quot;&gt; &lt;/p&gt;
+&lt;p align=&quot;left&quot;&gt; 作为入门级为数不多支持&lt;strong&gt;&lt;font size=&quot;3&quot; color=&quot;#ff0000&quot;&gt;双卡功能&lt;/font&gt;&lt;/strong&gt;的手机，可以同时插入两张SIM卡，通过菜单随意切换，只需开启漫游自动切换模式，&lt;a href=&quot;mailto:9@9V&quot;&gt;9@9V&lt;/a&gt;在该模式下能够判断网络情况，自动切换适合的手机号。&lt;/p&gt;
+&lt;p align=&quot;left&quot;&gt; &lt;/p&gt;
+&lt;p align=&quot;left&quot;&gt; &lt;/p&gt;' WHERE ( `goods_id` = 8 ) [ RunTime:0.002787s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001937s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002059s ]
+
+[ 2016-11-12T16:07:09+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/upd/goods_id/8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000716s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000013s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001957s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.001672s ]
+SQL: SELECT * FROM `sw_goods` WHERE ( `goods_id` = 8 ) LIMIT 1   [ RunTime:0.000375s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012512s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012636s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000621s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000553s ]
+
+[ 2016-11-12T16:07:13+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000363s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001050s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.002023s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sw_goods` LIMIT 1   [ RunTime:0.000391s ]
+SQL: select * from sw_goods Limit 0, 7 [ RunTime:0.000817s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008187s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008269s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000140s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000840s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001006s ]
+
+[ 2016-11-12T16:07:28+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/upd/goods_id/6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000572s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001586s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.002972s ]
+SQL: SELECT * FROM `sw_goods` WHERE ( `goods_id` = 6 ) LIMIT 1   [ RunTime:0.000327s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007221s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000241s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000660s ]
+
+[ 2016-11-12T16:07:37+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/upd/goods_id/6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000596s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000006s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001417s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.002538s ]
+SQL: UPDATE `sw_goods` SET `goods_name`='rrtyrt',`goods_category_id`=0,`goods_brand_id`=0,`goods_price`='65756.00',`goods_introduce`='' WHERE ( `goods_id` = 6 ) [ RunTime:0.002603s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000779s ]
+
+[ 2016-11-12T16:07:43+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/upd/goods_id/6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000382s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001127s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.002998s ]
+SQL: SELECT * FROM `sw_goods` WHERE ( `goods_id` = 6 ) LIMIT 1   [ RunTime:0.000316s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005650s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005726s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000478s ]
+
+[ 2016-11-12T16:07:49+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/upd/goods_id/9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.006099s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000014s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007169s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.003021s ]
+SQL: SELECT * FROM `sw_goods` WHERE ( `goods_id` = 9 ) LIMIT 1   [ RunTime:0.000384s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004969s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005019s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000104s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000396s ]
+
+[ 2016-11-12T16:08:04+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/upd/goods_id/9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000556s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001806s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.002023s ]
+SQL: UPDATE `sw_goods` SET `goods_name`='rrtyrt',`goods_category_id`=0,`goods_brand_id`=0,`goods_price`='657',`goods_introduce`='&lt;p&gt;在机身材质方面，诺基亚E66大量采用金属材质，刨光的金属表面光泽动人，背面的点状效果规则却又不失变化，时尚感总是在不经意间诠释出来，并被人们所感知。E66机身尺寸为&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;span style=&quot;font-size: larger;&quot;&gt;&lt;strong&gt;107.5×49.5×13.6毫米，重量为121克&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;，滑盖的造型竟然比E71还要轻一些。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;div&gt;诺基亚E66机身正面是&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;span style=&quot;font-size: larger;&quot;&gt;&lt;strong&gt;一块2.4英寸1600万色QVGA分辨率（240×320像素）液晶显示屏&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;。屏幕上方拥有光线感应元件，能够自适应周 围环境光调节屏幕亮度；屏幕下方是方向功能键区。打开滑盖，可以看到传统的数字键盘，按键的大小、手感、间隔以及键程适中，手感非常舒适。&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;诺基亚为E66配备了一颗320万像素自动对焦摄像头，带有LED 闪光灯，支持多种拍照尺寸选择。&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;' WHERE ( `goods_id` = 9 ) [ RunTime:0.003864s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000734s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000803s ]
+
+[ 2016-11-12T16:08:09+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/upd/goods_id/9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000390s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001108s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.001628s ]
+SQL: SELECT * FROM `sw_goods` WHERE ( `goods_id` = 9 ) LIMIT 1   [ RunTime:0.000289s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005898s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005970s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000112s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000444s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000494s ]
+
+[ 2016-11-12T16:08:12+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000378s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000009s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001098s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.001450s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sw_goods` LIMIT 1   [ RunTime:0.000239s ]
+SQL: select * from sw_goods Limit 0, 7 [ RunTime:0.000485s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006281s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006335s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000109s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000664s ]
+
+[ 2016-11-12T16:08:15+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000373s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001013s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.001833s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sw_goods` LIMIT 1   [ RunTime:0.000307s ]
+SQL: select * from sw_goods Limit 0, 7 [ RunTime:0.000612s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005681s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005745s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000154s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001652s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001761s ]
+
+[ 2016-11-12T16:08:21+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/showlist?&page=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000835s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000017s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002344s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.003060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sw_goods` LIMIT 1   [ RunTime:0.000340s ]
+SQL: select * from sw_goods Limit 7, 7 [ RunTime:0.000418s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006812s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006916s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000160s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000686s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000777s ]
+
+[ 2016-11-12T16:08:24+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/showlist?&page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000557s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000017s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001799s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.001642s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sw_goods` LIMIT 1   [ RunTime:0.000252s ]
+SQL: select * from sw_goods Limit 0, 7 [ RunTime:0.000496s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007466s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007581s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000330s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000852s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2016-11-12T16:11:40+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/upd/goods_id/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000794s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.002654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004495s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.001764s ]
+SQL: SELECT * FROM `sw_goods` WHERE ( `goods_id` = 7 ) LIMIT 1   [ RunTime:0.000304s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000239s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009013s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009086s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000427s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000925s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000973s ]
+
+[ 2016-11-12T16:16:01+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000808s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000009s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002324s ]
+
+[ 2016-11-12T16:16:20+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000657s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000015s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001783s ]
+SQL: select * from sw_manager where mg_id=3 [ RunTime:0.000426s ]
+SQL: select * from sw_role where role_id=2 [ RunTime:0.000300s ]
+SQL: select * from sw_auth where auth_level=0 and auth_id in (1,4,5) [ RunTime:0.000344s ]
+SQL: select * from sw_auth where auth_level=1 and auth_id in (1,4,5) [ RunTime:0.000234s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.011619s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011691s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000466s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.008168s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008282s ]
+
+[ 2016-11-12T16:36:01+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001126s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000010s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002890s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=3 [ RunTime:0.001007s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.003617s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sw_goods` LIMIT 1   [ RunTime:0.000427s ]
+SQL: select * from sw_goods Limit 0, 7 [ RunTime:0.000604s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012092s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012182s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000527s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000596s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001214s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001324s ]
+
+[ 2016-11-12T16:55:32+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000993s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000896s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002811s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=3 [ RunTime:0.000347s ]
+SQL: DESCRIBE sw_goods [ RunTime:0.003416s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `sw_goods` LIMIT 1   [ RunTime:0.000328s ]
+SQL: select * from sw_goods Limit 0, 7 [ RunTime:0.004044s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000199s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.011174s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011273s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000604s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000665s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001196s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001320s ]
+
+[ 2016-11-12T16:55:45+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000943s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000009s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002528s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=3 [ RunTime:0.000402s ]
+
+[ 2016-11-12T16:56:20+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000606s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001774s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=3 [ RunTime:0.000392s ]
+SQL: select * from sw_manager where mg_id=3 [ RunTime:0.000178s ]
+SQL: select * from sw_role where role_id=2 [ RunTime:0.000184s ]
+SQL: select * from sw_auth where auth_level=0 and auth_id in (1,4,5) [ RunTime:0.000363s ]
+SQL: select * from sw_auth where auth_level=1 and auth_id in (1,4,5) [ RunTime:0.000186s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013047s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013097s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000541s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000596s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001585s ]
+
+[ 2016-11-12T17:10:51+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000884s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002561s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=3 [ RunTime:0.000414s ]
+
+[ 2016-11-12T17:10:59+08:00 ] ::1 /app/weibo/index.php/Admin/Goods/upd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000436s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000015s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001406s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=3 [ RunTime:0.000366s ]
+
+[ 2016-11-12T17:11:10+08:00 ] ::1 /app/weibo/index.php/Admin/Manager/logout
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000390s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001093s ]
+
+[ 2016-11-12T17:11:10+08:00 ] ::1 /app/weibo/index.php/Admin/Manager/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000315s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000933s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000146s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009014s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009071s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000521s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001014s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001055s ]
+
+[ 2016-11-12T17:11:10+08:00 ] ::1 /app/weibo/index.php/Admin/Manager/verifyImage
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.003244s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000017s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004824s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000635s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000744s ]
+
+[ 2016-11-12T17:11:28+08:00 ] ::1 /app/weibo/index.php/Admin/Manager/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000389s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001031s ]
+SQL: DESCRIBE sw_manager [ RunTime:0.002077s ]
+SQL: SELECT * FROM `sw_manager` WHERE ( `mg_name` = 'admin' ) LIMIT 1   [ RunTime:0.000235s ]
+
+[ 2016-11-12T17:11:28+08:00 ] ::1 /app/weibo/index.php/Admin/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000319s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000356s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005451s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005509s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000498s ]
+
+[ 2016-11-12T17:11:28+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.009102s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000017s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000629s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010505s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000365s ]
+SQL: select * from sw_manager where mg_id=1 [ RunTime:0.000228s ]
+SQL: select * from sw_role where role_id=0 [ RunTime:0.000211s ]
+SQL: select * from sw_auth where auth_level=0  [ RunTime:0.000226s ]
+SQL: select * from sw_auth where auth_level=1  [ RunTime:0.000285s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.015103s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015208s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000184s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000690s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000777s ]
+
+[ 2016-11-12T17:11:28+08:00 ] ::1 /app/weibo/index.php/Admin/Index/right
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000749s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000016s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002070s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000831s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009679s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009783s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000175s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000558s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000620s ]
+
+[ 2016-11-12T17:11:28+08:00 ] ::1 /app/weibo/index.php/Admin/Index/head
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000364s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001036s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000501s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000154s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010943s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011042s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000422s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001169s ]
+
+[ 2016-11-12T17:14:55+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000426s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001220s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000351s ]
+SQL: select * from sw_manager where mg_id=1 [ RunTime:0.000330s ]
+SQL: select * from sw_role where role_id=0 [ RunTime:0.000194s ]
+SQL: select * from sw_auth where auth_level=0  [ RunTime:0.000289s ]
+SQL: select * from sw_auth where auth_level=1  [ RunTime:0.000325s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.014465s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014527s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000140s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000806s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000960s ]
+
+[ 2016-11-12T17:15:48+08:00 ] ::1 /app/weibo/index.php/Admin/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000383s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001048s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000376s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005560s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005642s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000115s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000355s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000394s ]
+
+[ 2016-11-12T17:15:48+08:00 ] ::1 /app/weibo/index.php/Admin/Index/head
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000621s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000014s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001630s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000354s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005555s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005639s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000183s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000477s ]
+
+[ 2016-11-12T17:15:48+08:00 ] ::1 /app/weibo/index.php/Admin/Index/right
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000544s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000013s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001462s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000452s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008033s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008104s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000123s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000444s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000517s ]
+
+[ 2016-11-12T17:15:48+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000366s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001033s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000413s ]
+SQL: select * from sw_manager where mg_id=1 [ RunTime:0.000304s ]
+SQL: select * from sw_role where role_id=0 [ RunTime:0.000321s ]
+SQL: select * from sw_auth where auth_level=0  [ RunTime:0.000308s ]
+SQL: select * from sw_auth where auth_level=1  [ RunTime:0.000288s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000199s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012744s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012842s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000239s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000894s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001017s ]
+
+[ 2016-11-12T17:15:56+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000392s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001163s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000444s ]
+SQL: select * from sw_manager where mg_id=1 [ RunTime:0.000181s ]
+SQL: select * from sw_role where role_id=0 [ RunTime:0.000155s ]
+SQL: select * from sw_auth where auth_level=0  [ RunTime:0.000204s ]
+SQL: select * from sw_auth where auth_level=1  [ RunTime:0.000190s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009339s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009388s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000552s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000633s ]
+
+[ 2016-11-12T17:19:21+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000563s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000010s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001357s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000335s ]
+SQL: select * from sw_manager where mg_id=1 [ RunTime:0.000153s ]
+SQL: select * from sw_role where role_id=0 [ RunTime:0.000147s ]
+SQL: select * from sw_auth where auth_level=0  [ RunTime:0.000228s ]
+SQL: select * from sw_auth where auth_level=1  [ RunTime:0.000221s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008936s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008990s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000119s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000176s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000645s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000703s ]
+
+[ 2016-11-12T17:23:16+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000628s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000014s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001826s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000315s ]
+SQL: select * from sw_manager where mg_id=1 [ RunTime:0.000153s ]
+SQL: select * from sw_role where role_id=0 [ RunTime:0.000151s ]
+SQL: select * from sw_auth where auth_level=0  [ RunTime:0.000183s ]
+SQL: select * from sw_auth where auth_level=1  [ RunTime:0.000186s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009304s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000268s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000810s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000903s ]
+
+[ 2016-11-12T17:23:21+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000368s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001055s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000417s ]
+SQL: select * from sw_manager where mg_id=1 [ RunTime:0.000241s ]
+SQL: select * from sw_role where role_id=0 [ RunTime:0.000222s ]
+SQL: select * from sw_auth where auth_level=0  [ RunTime:0.000402s ]
+SQL: select * from sw_auth where auth_level=1  [ RunTime:0.000356s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010551s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010618s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000178s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000721s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000851s ]
+
+[ 2016-11-12T17:31:50+08:00 ] ::1 /app/weibo/index.php/Admin/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000905s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000012s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002675s ]
+
+[ 2016-11-12T17:32:41+08:00 ] ::1 /app/weibo/index.php/Admin/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000414s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+
+[ 2016-11-12T17:33:28+08:00 ] ::1 /app/weibo/index.php/Admin/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000392s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001133s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000392s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007991s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008059s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000547s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000857s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000909s ]
+
+[ 2016-11-12T17:33:28+08:00 ] ::1 /app/weibo/index.php/Admin/Index/right
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000558s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000012s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001526s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.001983s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.018126s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018243s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000223s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000618s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000678s ]
+
+[ 2016-11-12T17:33:28+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000823s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000015s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002582s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000465s ]
+SQL: select * from sw_manager where mg_id=1 [ RunTime:0.000247s ]
+SQL: select * from sw_role where role_id=0 [ RunTime:0.000264s ]
+SQL: select * from sw_auth where auth_level=0  [ RunTime:0.000289s ]
+SQL: select * from sw_auth where auth_level=1  [ RunTime:0.000287s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.017285s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017344s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000149s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002523s ]
+
+[ 2016-11-12T17:33:28+08:00 ] ::1 /app/weibo/index.php/Admin/Index/head
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000745s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000015s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002007s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000573s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009938s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010052s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000282s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001168s ]
+
+[ 2016-11-12T17:36:07+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000614s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000010s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002037s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000333s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005268s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005353s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000114s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000508s ]
+
+[ 2016-11-12T17:36:32+08:00 ] ::1 /app/weibo/index.php/Admin/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000727s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000012s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001977s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000329s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005091s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005177s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000182s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000493s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000545s ]
+
+[ 2016-11-12T17:36:32+08:00 ] ::1 /app/weibo/index.php/Admin/Index/head
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000614s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000015s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001666s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000632s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006827s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006909s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000148s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000574s ]
+
+[ 2016-11-12T17:36:32+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000659s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000013s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001869s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000931s ]
+SQL: select * from sw_manager where mg_id=1 [ RunTime:0.000363s ]
+SQL: select * from sw_role where role_id=0 [ RunTime:0.000314s ]
+SQL: select * from sw_auth where auth_level=0  [ RunTime:0.000337s ]
+SQL: select * from sw_auth where auth_level=1  [ RunTime:0.000390s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000207s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.017908s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018027s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000218s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000840s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000984s ]
+
+[ 2016-11-12T17:36:32+08:00 ] ::1 /app/weibo/index.php/Admin/Index/right
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000886s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000019s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002553s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000671s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009430s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009510s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000536s ]
+
+[ 2016-11-12T17:37:17+08:00 ] ::1 /app/weibo/index.php/Admin/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000352s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001035s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000341s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004225s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004296s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000198s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000533s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000606s ]
+
+[ 2016-11-12T17:37:17+08:00 ] ::1 /app/weibo/index.php/Admin/Index/head
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000587s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000014s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001653s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000394s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005684s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005767s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000194s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000686s ]
+
+[ 2016-11-12T17:37:17+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000585s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000012s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001588s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000431s ]
+SQL: select * from sw_manager where mg_id=1 [ RunTime:0.000318s ]
+SQL: select * from sw_role where role_id=0 [ RunTime:0.000345s ]
+SQL: select * from sw_auth where auth_level=0  [ RunTime:0.000369s ]
+SQL: select * from sw_auth where auth_level=1  [ RunTime:0.002634s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.026145s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026231s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000154s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000782s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000883s ]
+
+[ 2016-11-12T17:37:17+08:00 ] ::1 /app/weibo/index.php/Admin/Index/right
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000596s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000015s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001562s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000725s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008803s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008906s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000205s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000818s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000905s ]
+
+[ 2016-11-12T17:37:21+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000386s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000013s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001179s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000341s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.003633s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003679s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000100s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000373s ]
+
+[ 2016-11-12T17:42:09+08:00 ] ::1 /app/weibo/index.php/Admin/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000793s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002146s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000377s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007232s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007303s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000586s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000642s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000909s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000967s ]
+
+[ 2016-11-12T17:42:09+08:00 ] ::1 /app/weibo/index.php/Admin/Index/head
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000547s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000014s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001503s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000656s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005858s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005955s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000252s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000594s ]
+
+[ 2016-11-12T17:42:09+08:00 ] ::1 /app/weibo/index.php/Admin/Index/left
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000568s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000015s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001849s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.001003s ]
+SQL: select * from sw_manager where mg_id=1 [ RunTime:0.000730s ]
+SQL: select * from sw_role where role_id=0 [ RunTime:0.001856s ]
+SQL: select * from sw_auth where auth_level=0  [ RunTime:0.001013s ]
+SQL: select * from sw_auth where auth_level=1  [ RunTime:0.001346s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.015230s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015310s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000182s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000716s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000820s ]
+
+[ 2016-11-12T17:42:09+08:00 ] ::1 /app/weibo/index.php/Admin/Index/right
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000407s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000013s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001238s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000396s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012293s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012378s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000277s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000579s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000652s ]
+
+[ 2016-11-12T17:42:13+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000470s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000009s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001132s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000340s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+NOTIC: [8] Undefined variable: info /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 47 行.
+NOTIC: [8] Undefined variable: pagelist /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 64 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006313s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006360s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000112s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2016-11-12T17:45:21+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000997s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000017s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002792s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000378s ]
+SQL: DESCRIBE sw_sw_role [ RunTime:0.009438s ]
+ERR: 1146:Table 'mydb.sw_sw_role' doesn't exist
+ [ SQL语句 ] : DESCRIBE sw_sw_role
+SQL: SELECT * FROM `sw_sw_role`  [ RunTime:0.000180s ]
+ERR: 1146:Table 'mydb.sw_sw_role' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `sw_sw_role` 
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+NOTIC: [8] Undefined variable: info /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 47 行.
+NOTIC: [8] Undefined variable: pagelist /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 64 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008779s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008821s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000596s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000659s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000921s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000964s ]
+
+[ 2016-11-12T17:46:10+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000474s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001231s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000302s ]
+SQL: DESCRIBE sw_role [ RunTime:0.001336s ]
+SQL: SELECT * FROM `sw_role`  [ RunTime:0.000217s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+NOTIC: [8] Undefined variable: info /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 47 行.
+NOTIC: [8] Undefined variable: pagelist /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 64 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007561s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007622s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000207s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000641s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000710s ]
+
+[ 2016-11-12T17:52:48+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000327s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000963s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000345s ]
+SQL: DESCRIBE sw_role [ RunTime:0.003532s ]
+SQL: SELECT * FROM `sw_role`  [ RunTime:0.000299s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+NOTIC: [8] Undefined index: role_number /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 48 行.
+NOTIC: [8] Undefined index: goods_big_img /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 50 行.
+NOTIC: [8] Undefined index: goods_small_img /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 51 行.
+NOTIC: [8] Undefined index: goods_create_time /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 53 行.
+NOTIC: [8] Undefined index: goods_id /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 54 行.
+NOTIC: [8] Undefined index: role_number /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 48 行.
+NOTIC: [8] Undefined index: goods_big_img /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 50 行.
+NOTIC: [8] Undefined index: goods_small_img /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 51 行.
+NOTIC: [8] Undefined index: goods_create_time /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 53 行.
+NOTIC: [8] Undefined index: goods_id /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 54 行.
+NOTIC: [8] Undefined index: role_number /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 48 行.
+NOTIC: [8] Undefined index: goods_big_img /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 50 行.
+NOTIC: [8] Undefined index: goods_small_img /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 51 行.
+NOTIC: [8] Undefined index: goods_create_time /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 53 行.
+NOTIC: [8] Undefined index: goods_id /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 54 行.
+NOTIC: [8] Undefined variable: pagelist /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 62 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009299s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009372s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000306s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000519s ]
+
+[ 2016-11-12T17:55:25+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000397s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001069s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000324s ]
+SQL: DESCRIBE sw_role [ RunTime:0.002038s ]
+SQL: SELECT * FROM `sw_role`  [ RunTime:0.000213s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: goods_create_time /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 53 行.
+NOTIC: [8] Undefined index: goods_create_time /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 53 行.
+NOTIC: [8] Undefined index: goods_create_time /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 53 行.
+NOTIC: [8] Undefined variable: pagelist /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 62 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006271s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006325s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000132s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2016-11-12T17:56:11+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000408s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001144s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000350s ]
+SQL: DESCRIBE sw_role [ RunTime:0.002580s ]
+SQL: SELECT * FROM `sw_role`  [ RunTime:0.000222s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined index: goods_create_time /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 53 行.
+NOTIC: [8] Undefined index: goods_create_time /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 53 行.
+NOTIC: [8] Undefined index: goods_create_time /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 53 行.
+NOTIC: [8] Undefined variable: pagelist /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 62 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005763s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005808s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000113s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000544s ]
+
+[ 2016-11-12T17:56:41+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000377s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001036s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000367s ]
+SQL: DESCRIBE sw_role [ RunTime:0.002883s ]
+SQL: SELECT * FROM `sw_role`  [ RunTime:0.000309s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+NOTIC: [8] Undefined variable: pagelist /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 62 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009700s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009769s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000157s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000462s ]
+
+[ 2016-11-12T17:57:11+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000353s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000946s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000382s ]
+SQL: DESCRIBE sw_role [ RunTime:0.002898s ]
+SQL: SELECT * FROM `sw_role`  [ RunTime:0.000320s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined index: role/auth_ac /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 51 行.
+NOTIC: [8] Undefined index: role/auth_ac /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 51 行.
+NOTIC: [8] Undefined index: role/auth_ac /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 51 行.
+NOTIC: [8] Undefined variable: pagelist /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 62 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005367s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005421s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000132s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000400s ]
+
+[ 2016-11-12T17:57:13+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000468s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001095s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000312s ]
+SQL: DESCRIBE sw_role [ RunTime:0.002476s ]
+SQL: SELECT * FROM `sw_role`  [ RunTime:0.000239s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+NOTIC: [8] Undefined index: role/auth_ac /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 51 行.
+NOTIC: [8] Undefined index: role/auth_ac /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 51 行.
+NOTIC: [8] Undefined index: role/auth_ac /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 51 行.
+NOTIC: [8] Undefined variable: pagelist /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 62 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005592s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005638s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000389s ]
+
+[ 2016-11-12T17:57:13+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000404s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001089s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000340s ]
+SQL: DESCRIBE sw_role [ RunTime:0.002481s ]
+SQL: SELECT * FROM `sw_role`  [ RunTime:0.000227s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined index: role/auth_ac /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 51 行.
+NOTIC: [8] Undefined index: role/auth_ac /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 51 行.
+NOTIC: [8] Undefined index: role/auth_ac /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 51 行.
+NOTIC: [8] Undefined variable: pagelist /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 62 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005405s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005448s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2016-11-12T17:57:14+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000635s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000015s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001639s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000318s ]
+SQL: DESCRIBE sw_role [ RunTime:0.002858s ]
+SQL: SELECT * FROM `sw_role`  [ RunTime:0.000234s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined index: role/auth_ac /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 51 行.
+NOTIC: [8] Undefined index: role/auth_ac /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 51 行.
+NOTIC: [8] Undefined index: role/auth_ac /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 51 行.
+NOTIC: [8] Undefined variable: pagelist /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 62 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005293s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005369s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000246s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001176s ]
+
+[ 2016-11-12T17:57:42+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000411s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000016s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001115s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000382s ]
+SQL: DESCRIBE sw_role [ RunTime:0.003963s ]
+SQL: SELECT * FROM `sw_role`  [ RunTime:0.000238s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+NOTIC: [8] Undefined variable: pagelist /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 62 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005703s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005752s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000160s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000461s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000525s ]
+
+[ 2016-11-12T17:57:44+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000534s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000014s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001474s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000331s ]
+SQL: DESCRIBE sw_role [ RunTime:0.002495s ]
+SQL: SELECT * FROM `sw_role`  [ RunTime:0.000248s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+NOTIC: [8] Undefined variable: pagelist /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 62 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005544s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005591s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000772s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000842s ]
+
+[ 2016-11-12T17:57:44+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000344s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000957s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000509s ]
+SQL: DESCRIBE sw_role [ RunTime:0.003713s ]
+SQL: SELECT * FROM `sw_role`  [ RunTime:0.000297s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+NOTIC: [8] Undefined variable: pagelist /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 62 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007088s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007180s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000244s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-11-12T17:57:45+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000377s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000009s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001037s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000301s ]
+SQL: DESCRIBE sw_role [ RunTime:0.002463s ]
+SQL: SELECT * FROM `sw_role`  [ RunTime:0.000206s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined variable: pagelist /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 62 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005017s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005060s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000106s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000382s ]
+
+[ 2016-11-12T17:57:46+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000352s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000879s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000328s ]
+SQL: DESCRIBE sw_role [ RunTime:0.002790s ]
+SQL: SELECT * FROM `sw_role`  [ RunTime:0.000257s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+NOTIC: [8] Undefined variable: pagelist /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 62 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007204s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007271s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000211s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000698s ]
+
+[ 2016-11-12T17:57:46+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000310s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000894s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000296s ]
+SQL: DESCRIBE sw_role [ RunTime:0.002741s ]
+SQL: SELECT * FROM `sw_role`  [ RunTime:0.000288s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+NOTIC: [8] Undefined variable: pagelist /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 62 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005296s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005347s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000107s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000382s ]
+
+[ 2016-11-12T17:57:47+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000391s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001084s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000353s ]
+SQL: DESCRIBE sw_role [ RunTime:0.002400s ]
+SQL: SELECT * FROM `sw_role`  [ RunTime:0.000357s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+NOTIC: [8] Undefined variable: pagelist /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 62 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006950s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000113s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000401s ]
+
+[ 2016-11-12T17:57:48+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000342s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000935s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000306s ]
+SQL: DESCRIBE sw_role [ RunTime:0.002727s ]
+SQL: SELECT * FROM `sw_role`  [ RunTime:0.000282s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+NOTIC: [8] Undefined variable: pagelist /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 62 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005213s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005257s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000107s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000380s ]
+
+[ 2016-11-12T17:58:54+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000714s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000012s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001958s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000371s ]
+SQL: DESCRIBE sw_role [ RunTime:0.001683s ]
+SQL: SELECT * FROM `sw_role`  [ RunTime:0.000293s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Undefined variable: pagelist /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 62 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006532s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006576s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000113s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2016-11-12T21:45:01+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000993s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000009s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.001010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002911s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.001411s ]
+SQL: DESCRIBE sw_role [ RunTime:0.005872s ]
+SQL: SELECT * FROM `sw_role`  [ RunTime:0.000430s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+NOTIC: [8] Undefined variable: pagelist /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 62 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.011103s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011156s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000485s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000937s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001003s ]
+
+[ 2016-11-12T21:45:04+08:00 ] ::1 /app/weibo/index.php/Admin/Role/distribute
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000385s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000011s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001045s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000526s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000639s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000707s ]
+
+[ 2016-11-12T21:49:39+08:00 ] ::1 /app/weibo/index.php/Admin/Role/distribute
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000453s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001169s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000447s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000554s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000618s ]
+
+[ 2016-11-12T21:49:43+08:00 ] ::1 /app/weibo/index.php/Admin/Role/distribute
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000366s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001024s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000399s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000590s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000658s ]
+
+[ 2016-11-12T21:49:45+08:00 ] ::1 /app/weibo/index.php/Admin/Role/distribute
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000435s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000009s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001469s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000342s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000523s ]
+
+[ 2016-11-12T21:49:46+08:00 ] ::1 /app/weibo/index.php/Admin/Role/distribute
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000448s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000010s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001327s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000356s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000624s ]
+
+[ 2016-11-12T21:50:58+08:00 ] ::1 /app/weibo/index.php/Admin/Role/distribute
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000526s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000013s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001840s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000369s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+NOTIC: [8] Undefined variable: _v /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/9987da5c5539d9950ab29db060474e37.php 第 34 行.
+NOTIC: [8] Undefined variable: _v /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/9987da5c5539d9950ab29db060474e37.php 第 34 行.
+NOTIC: [8] Undefined variable: _v /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/9987da5c5539d9950ab29db060474e37.php 第 45 行.
+NOTIC: [8] Undefined variable: _v /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/9987da5c5539d9950ab29db060474e37.php 第 45 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006784s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006837s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000145s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000627s ]
+
+[ 2016-11-12T22:04:18+08:00 ] ::1 /app/weibo/index.php/Admin/Role/distribute
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001236s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000009s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000361s ]
+ERR: 参数错误或者未定义:role_id
+
+[ 2016-11-12T22:07:08+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000582s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001771s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000430s ]
+SQL: DESCRIBE sw_role [ RunTime:0.003405s ]
+SQL: SELECT * FROM `sw_role`  [ RunTime:0.000239s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+NOTIC: [8] Undefined variable: pagelist /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 62 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010827s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010881s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000601s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000659s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001836s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001905s ]
+
+[ 2016-11-12T22:07:10+08:00 ] ::1 /app/weibo/index.php/Admin/Role/distribute/role_id/0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000312s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000007s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000368s ]
+SQL: DESCRIBE sw_role [ RunTime:0.001596s ]
+SQL: SELECT * FROM `sw_role` WHERE ( `role_id` = 0 ) LIMIT 1   [ RunTime:0.000278s ]
+NOTIC: [8] Undefined variable: info /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Admin/Controller/RoleController.class.php 第 14 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005114s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005166s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000183s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000443s ]
+
+[ 2016-11-12T22:07:19+08:00 ] ::1 /app/weibo/index.php/Admin/Role/distribute/role_id/2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000513s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000009s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001531s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000385s ]
+SQL: DESCRIBE sw_role [ RunTime:0.001421s ]
+SQL: SELECT * FROM `sw_role` WHERE ( `role_id` = 2 ) LIMIT 1   [ RunTime:0.000274s ]
+NOTIC: [8] Undefined variable: info /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Admin/Controller/RoleController.class.php 第 14 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005382s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005437s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000116s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000400s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000445s ]
+
+[ 2016-11-12T22:10:28+08:00 ] ::1 /app/weibo/index.php/Admin/Role/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000801s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002161s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000324s ]
+SQL: DESCRIBE sw_role [ RunTime:0.001493s ]
+SQL: SELECT * FROM `sw_role`  [ RunTime:0.000218s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Undefined variable: pagelist /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Admin/3ae2c8f390c262e563b558348235900a.php 第 62 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008483s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008533s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000511s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001717s ]
+
+[ 2016-11-12T22:10:30+08:00 ] ::1 /app/weibo/index.php/Admin/Role/distribute/role_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000448s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000008s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001187s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000391s ]
+SQL: DESCRIBE sw_role [ RunTime:0.001543s ]
+SQL: SELECT * FROM `sw_role` WHERE ( `role_id` = 1 ) LIMIT 1   [ RunTime:0.000289s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005323s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005395s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000188s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000426s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2016-11-12T22:10:49+08:00 ] ::1 /app/weibo/index.php/Admin/Role/distribute/role_id/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000448s ]
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000009s ]
+INFO: Run Behavior\CheckLang [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001189s ]
+SQL: select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000355s ]
+SQL: DESCRIBE sw_role [ RunTime:0.002750s ]
+SQL: SELECT * FROM `sw_role` WHERE ( `role_id` = 1 ) LIMIT 1   [ RunTime:0.000266s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005606s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005666s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+

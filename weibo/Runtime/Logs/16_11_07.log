@@ -1,0 +1,1525 @@
+[ 2016-11-07T11:17:01+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004050s ]
+
+[ 2016-11-07T11:20:57+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001913s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001046s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001128s ]
+
+[ 2016-11-07T11:25:48+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001231s ]
+ERR: 没有可以被缩略的图像资源
+
+[ 2016-11-07T11:26:19+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001172s ]
+NOTIC: [2] imagejpeg(./Public/2.jpg): failed to open stream: Permission denied /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Image/Driver/Gd.class.php 第 101 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000493s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000641s ]
+
+[ 2016-11-07T11:29:09+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001963s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001145s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001248s ]
+
+[ 2016-11-07T11:39:21+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001961s ]
+
+[ 2016-11-07T11:39:37+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001855s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001204s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001321s ]
+
+[ 2016-11-07T11:43:38+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001888s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001455s ]
+
+[ 2016-11-07T11:43:40+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000964s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000646s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000763s ]
+
+[ 2016-11-07T11:43:41+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000627s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000743s ]
+
+[ 2016-11-07T11:43:41+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000485s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000558s ]
+
+[ 2016-11-07T11:43:43+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000692s ]
+
+[ 2016-11-07T11:43:43+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000501s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000566s ]
+
+[ 2016-11-07T11:44:13+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001102s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000679s ]
+
+[ 2016-11-07T11:45:05+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001347s ]
+
+[ 2016-11-07T11:45:23+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000872s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000652s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000728s ]
+
+[ 2016-11-07T11:45:48+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000664s ]
+
+[ 2016-11-07T11:48:22+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001232s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000681s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000800s ]
+
+[ 2016-11-07T11:48:26+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000984s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000516s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000591s ]
+
+[ 2016-11-07T11:48:26+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000702s ]
+
+[ 2016-11-07T11:48:27+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000835s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000456s ]
+
+[ 2016-11-07T11:48:27+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000902s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000649s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000739s ]
+
+[ 2016-11-07T11:48:28+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001097s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000578s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000685s ]
+
+[ 2016-11-07T11:48:28+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001065s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000525s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000712s ]
+
+[ 2016-11-07T11:48:28+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001147s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000534s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000671s ]
+
+[ 2016-11-07T11:48:28+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000439s ]
+
+[ 2016-11-07T11:48:28+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000908s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001616s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000721s ]
+
+[ 2016-11-07T11:48:28+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000637s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000724s ]
+
+[ 2016-11-07T11:48:28+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000842s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000578s ]
+
+[ 2016-11-07T11:48:29+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000507s ]
+
+[ 2016-11-07T11:48:29+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001079s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000667s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000896s ]
+
+[ 2016-11-07T11:48:29+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001090s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000701s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000793s ]
+
+[ 2016-11-07T11:48:29+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000502s ]
+
+[ 2016-11-07T11:48:29+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000514s ]
+
+[ 2016-11-07T11:48:29+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000974s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000819s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000941s ]
+
+[ 2016-11-07T11:48:29+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000648s ]
+
+[ 2016-11-07T11:48:30+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000484s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000561s ]
+
+[ 2016-11-07T11:48:30+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001228s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000503s ]
+
+[ 2016-11-07T11:48:30+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000581s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000727s ]
+
+[ 2016-11-07T11:48:30+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000427s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000485s ]
+
+[ 2016-11-07T11:48:30+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000828s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001006s ]
+
+[ 2016-11-07T11:48:31+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000778s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000556s ]
+
+[ 2016-11-07T11:48:31+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000922s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000640s ]
+
+[ 2016-11-07T11:48:31+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000537s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000627s ]
+
+[ 2016-11-07T11:48:31+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000854s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000510s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000583s ]
+
+[ 2016-11-07T11:48:31+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000488s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000560s ]
+
+[ 2016-11-07T11:48:31+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000785s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000769s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000886s ]
+
+[ 2016-11-07T11:50:00+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001008s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001662s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001533s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001680s ]
+
+[ 2016-11-07T11:50:01+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000822s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000646s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000748s ]
+
+[ 2016-11-07T11:50:02+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000922s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000702s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000807s ]
+
+[ 2016-11-07T11:50:03+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000562s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001499s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001730s ]
+
+[ 2016-11-07T11:50:03+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000949s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001085s ]
+
+[ 2016-11-07T11:50:04+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000649s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000873s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000970s ]
+
+[ 2016-11-07T11:50:04+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000826s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000460s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000587s ]
+
+[ 2016-11-07T11:50:04+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000912s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000668s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000769s ]
+
+[ 2016-11-07T11:50:04+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000514s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000670s ]
+
+[ 2016-11-07T11:50:04+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000808s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000955s ]
+
+[ 2016-11-07T11:50:04+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000775s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000538s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000654s ]
+
+[ 2016-11-07T11:50:05+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000784s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000712s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000871s ]
+
+[ 2016-11-07T11:50:05+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000821s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000944s ]
+
+[ 2016-11-07T11:50:06+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000908s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000944s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001066s ]
+
+[ 2016-11-07T11:50:07+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001476s ]
+
+[ 2016-11-07T11:50:08+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000632s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000738s ]
+
+[ 2016-11-07T11:50:09+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000779s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000701s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000826s ]
+
+[ 2016-11-07T11:50:09+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001846s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000781s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000880s ]
+
+[ 2016-11-07T11:50:10+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000879s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001014s ]
+
+[ 2016-11-07T11:50:10+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000824s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000742s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000835s ]
+
+[ 2016-11-07T11:50:11+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000847s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001470s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001607s ]
+
+[ 2016-11-07T11:50:12+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000851s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000613s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000711s ]
+
+[ 2016-11-07T15:59:06+08:00 ] ::1 /app/index.php/Admin/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005102s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001254s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001373s ]
+
+[ 2016-11-07T16:09:44+08:00 ] ::1 /app/
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002954s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] ucfirst() expects parameter 1 to be string, array given /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Storage.class.php 第 36 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006612s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006752s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000517s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001131s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001225s ]
+
+[ 2016-11-07T16:35:43+08:00 ] ::1 /app/index.php/Home/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000966s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001872s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] ucfirst() expects parameter 1 to be string, array given /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Storage.class.php 第 36 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.000790s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000978s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000578s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000653s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001126s ]
+
+[ 2016-11-07T16:36:13+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001681s ]
+
+[ 2016-11-07T16:36:56+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002112s ]
+
+[ 2016-11-07T16:39:11+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001013s ]
+
+[ 2016-11-07T16:40:34+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001130s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001995s ]
+SQL: DESCRIBE think_user [ RunTime:0.005479s ]
+SQL: SELECT * FROM `think_user`  [ RunTime:0.000368s ]
+SQL: DESCRIBE think_content [ RunTime:0.001702s ]
+SQL: SELECT * FROM `think_content` WHERE ( 1=1 AND uid='1' )  [ RunTime:0.000958s ]
+SQL: SELECT * FROM `think_content` WHERE ( 1=1 AND uid='2' )  [ RunTime:0.000580s ]
+SQL: SELECT * FROM `think_content` WHERE ( 1=1 AND uid='3' )  [ RunTime:0.000175s ]
+SQL: SELECT * FROM `think_content` WHERE ( 1=1 AND uid='4' )  [ RunTime:0.000176s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001126s ]
+
+[ 2016-11-07T16:55:22+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001795s ]
+SQL: DESCRIBE think_user [ RunTime:0.004293s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000308s ]
+
+[ 2016-11-07T16:56:14+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001553s ]
+SQL: DESCRIBE think_user [ RunTime:0.003211s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000261s ]
+
+[ 2016-11-07T16:59:30+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002172s ]
+
+[ 2016-11-07T17:01:53+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001500s ]
+SQL: DESCRIBE think_user [ RunTime:0.003799s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000340s ]
+
+[ 2016-11-07T17:01:55+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001014s ]
+SQL: DESCRIBE think_user [ RunTime:0.002992s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000232s ]
+
+[ 2016-11-07T17:01:56+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+SQL: DESCRIBE think_user [ RunTime:0.002820s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000223s ]
+
+[ 2016-11-07T17:01:57+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001147s ]
+SQL: DESCRIBE think_user [ RunTime:0.001398s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000239s ]
+
+[ 2016-11-07T17:01:58+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+SQL: DESCRIBE think_user [ RunTime:0.002604s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000235s ]
+
+[ 2016-11-07T17:06:57+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: DESCRIBE think_user [ RunTime:0.004832s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000715s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001164s ]
+
+[ 2016-11-07T17:07:02+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+SQL: DESCRIBE think_user [ RunTime:0.002806s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000295s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000516s ]
+
+[ 2016-11-07T17:08:58+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002643s ]
+SQL: DESCRIBE think_user [ RunTime:0.002055s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000382s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001124s ]
+
+[ 2016-11-07T17:09:00+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000925s ]
+SQL: DESCRIBE think_user [ RunTime:0.002160s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000213s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000561s ]
+
+[ 2016-11-07T17:09:00+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+SQL: DESCRIBE think_user [ RunTime:0.002550s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000236s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2016-11-07T17:09:01+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+SQL: DESCRIBE think_user [ RunTime:0.002853s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000338s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000651s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000723s ]
+
+[ 2016-11-07T17:09:02+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000829s ]
+SQL: DESCRIBE think_user [ RunTime:0.002779s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000226s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000450s ]
+
+[ 2016-11-07T17:09:02+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000728s ]
+SQL: DESCRIBE think_user [ RunTime:0.002832s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000225s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000504s ]
+
+[ 2016-11-07T17:11:12+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000942s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001584s ]
+SQL: DESCRIBE think_user [ RunTime:0.003230s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000280s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000878s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000959s ]
+
+[ 2016-11-07T17:27:11+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001660s ]
+SQL: DESCRIBE think_user [ RunTime:0.004031s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000362s ]
+SQL: SELECT * FROM `think_user` LIMIT 0,5   [ RunTime:0.000320s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010956s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011076s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000590s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000901s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000957s ]
+
+[ 2016-11-07T17:27:13+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001109s ]
+SQL: DESCRIBE think_user [ RunTime:0.001657s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000574s ]
+SQL: SELECT * FROM `think_user` LIMIT 0,5   [ RunTime:0.000788s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007579s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007639s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000141s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000509s ]
+
+[ 2016-11-07T17:27:14+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+SQL: DESCRIBE think_user [ RunTime:0.002855s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000324s ]
+SQL: SELECT * FROM `think_user` LIMIT 0,5   [ RunTime:0.000293s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004466s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004514s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000485s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000538s ]
+
+[ 2016-11-07T17:27:15+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000952s ]
+SQL: DESCRIBE think_user [ RunTime:0.003196s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000233s ]
+SQL: SELECT * FROM `think_user` LIMIT 0,5   [ RunTime:0.000231s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004486s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004532s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000117s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000354s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000400s ]
+
+[ 2016-11-07T17:27:16+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000817s ]
+SQL: DESCRIBE think_user [ RunTime:0.002815s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000225s ]
+SQL: SELECT * FROM `think_user` LIMIT 0,5   [ RunTime:0.000222s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004396s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004441s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000117s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000389s ]
+
+[ 2016-11-07T17:27:16+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+SQL: DESCRIBE think_user [ RunTime:0.002964s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000315s ]
+SQL: SELECT * FROM `think_user` LIMIT 0,5   [ RunTime:0.000329s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006956s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000539s ]
+
+[ 2016-11-07T17:27:17+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+SQL: DESCRIBE think_user [ RunTime:0.001503s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000315s ]
+SQL: SELECT * FROM `think_user` LIMIT 0,5   [ RunTime:0.000369s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005397s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005443s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000176s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000481s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000542s ]
+
+[ 2016-11-07T17:27:18+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000805s ]
+SQL: DESCRIBE think_user [ RunTime:0.002666s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000249s ]
+SQL: SELECT * FROM `think_user` LIMIT 0,5   [ RunTime:0.000219s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004331s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004375s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000116s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000763s ]
+
+[ 2016-11-07T17:27:18+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+SQL: DESCRIBE think_user [ RunTime:0.002996s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000349s ]
+SQL: SELECT * FROM `think_user` LIMIT 0,5   [ RunTime:0.000339s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004635s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004681s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000118s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000392s ]
+
+[ 2016-11-07T17:27:19+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+SQL: DESCRIBE think_user [ RunTime:0.002732s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000361s ]
+SQL: SELECT * FROM `think_user` LIMIT 0,5   [ RunTime:0.000348s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004896s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004940s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000119s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000429s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000470s ]
+
+[ 2016-11-07T17:27:19+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000800s ]
+SQL: DESCRIBE think_user [ RunTime:0.001436s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000212s ]
+SQL: SELECT * FROM `think_user` LIMIT 0,5   [ RunTime:0.000202s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004353s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004394s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000113s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000386s ]
+
+[ 2016-11-07T17:27:20+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+SQL: DESCRIBE think_user [ RunTime:0.001582s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000294s ]
+SQL: SELECT * FROM `think_user` LIMIT 0,5   [ RunTime:0.000368s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005092s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005143s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000144s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000247s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000640s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000760s ]
+
+[ 2016-11-07T17:27:21+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000768s ]
+SQL: DESCRIBE think_user [ RunTime:0.003021s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000285s ]
+SQL: SELECT * FROM `think_user` LIMIT 0,5   [ RunTime:0.000243s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+NOTIC: [8] Undefined variable: obj /Applications/XAMPP/xamppfiles/htdocs/app/weibo/Runtime/Cache/Home/91c22633669b5d93cf476d35cb6896e3.php 第 11 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004054s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004097s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000114s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000390s ]
+
+[ 2016-11-07T17:31:26+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001624s ]
+SQL: DESCRIBE think_user [ RunTime:0.002766s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000216s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000935s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001038s ]
+
+[ 2016-11-07T17:31:28+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+SQL: DESCRIBE think_user [ RunTime:0.001328s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000398s ]
+
+[ 2016-11-07T17:31:28+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001742s ]
+SQL: DESCRIBE think_user [ RunTime:0.002707s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000288s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000443s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000510s ]
+
+[ 2016-11-07T17:31:29+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+SQL: DESCRIBE think_user [ RunTime:0.002968s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000327s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000565s ]
+
+[ 2016-11-07T17:31:31+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000805s ]
+SQL: DESCRIBE think_user [ RunTime:0.002857s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000258s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000414s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000470s ]
+
+[ 2016-11-07T17:31:32+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+SQL: DESCRIBE think_user [ RunTime:0.003026s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000312s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000571s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000678s ]
+
+[ 2016-11-07T17:31:33+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+SQL: DESCRIBE think_user [ RunTime:0.002698s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000246s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000411s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000472s ]
+
+[ 2016-11-07T17:33:49+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001642s ]
+SQL: DESCRIBE think_user [ RunTime:0.002843s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000221s ]
+SQL: SELECT * FROM `think_user` LIMIT 0,5   [ RunTime:0.000276s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001137s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001197s ]
+
+[ 2016-11-07T17:34:46+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001501s ]
+SQL: DESCRIBE think_user [ RunTime:0.001445s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000258s ]
+SQL: SELECT * FROM `think_user` LIMIT 0,5   [ RunTime:0.000310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001128s ]
+
+[ 2016-11-07T17:42:46+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001840s ]
+SQL: DESCRIBE think_user [ RunTime:0.004254s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000405s ]
+SQL: SELECT * FROM `think_user` LIMIT 0,5   [ RunTime:0.000392s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.019719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019810s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000533s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001166s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001242s ]
+
+[ 2016-11-07T17:44:43+08:00 ] ::1 /app/index.php/Home/User/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003314s ]
+SQL: DESCRIBE think_user [ RunTime:0.001858s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000256s ]
+SQL: SELECT * FROM `think_user` LIMIT 0,5   [ RunTime:0.000433s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010475s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010565s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000553s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000621s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.002338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002442s ]
+
+[ 2016-11-07T17:44:46+08:00 ] ::1 /app/index.php/Home/User/index/p/2.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000842s ]
+SQL: DESCRIBE think_user [ RunTime:0.002046s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000325s ]
+SQL: SELECT * FROM `think_user` LIMIT 5,5   [ RunTime:0.000312s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005208s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005261s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000442s ]
+
+[ 2016-11-07T17:44:49+08:00 ] ::1 /app/index.php/Home/User/index/p/3.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+SQL: DESCRIBE think_user [ RunTime:0.001410s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000238s ]
+SQL: SELECT * FROM `think_user` LIMIT 10,5   [ RunTime:0.000267s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004689s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004744s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000113s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000346s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000386s ]
+
+[ 2016-11-07T17:48:13+08:00 ] ::1 /app/index.php/Home/User/index/p/3.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002042s ]
+SQL: DESCRIBE think_user [ RunTime:0.003175s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000219s ]
+SQL: SELECT * FROM `think_user` LIMIT 2,1   [ RunTime:0.000223s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.011389s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011505s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000524s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000605s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001111s ]
+
+[ 2016-11-07T17:48:16+08:00 ] ::1 /app/index.php/Home/User/index/p/4.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000973s ]
+SQL: DESCRIBE think_user [ RunTime:0.001456s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000407s ]
+SQL: SELECT * FROM `think_user` LIMIT 3,1   [ RunTime:0.000316s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004736s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004796s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000110s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000426s ]
+
+[ 2016-11-07T17:48:17+08:00 ] ::1 /app/index.php/Home/User/index/p/5.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000847s ]
+SQL: DESCRIBE think_user [ RunTime:0.001610s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000284s ]
+SQL: SELECT * FROM `think_user` LIMIT 4,1   [ RunTime:0.000324s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005206s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005272s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000118s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000547s ]
+
+[ 2016-11-07T17:48:18+08:00 ] ::1 /app/index.php/Home/User/index/p/4.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+SQL: DESCRIBE think_user [ RunTime:0.002643s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000259s ]
+SQL: SELECT * FROM `think_user` LIMIT 3,1   [ RunTime:0.000298s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004990s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005047s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000111s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2016-11-07T17:48:19+08:00 ] ::1 /app/index.php/Home/User/index/p/5.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000804s ]
+SQL: DESCRIBE think_user [ RunTime:0.002953s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000335s ]
+SQL: SELECT * FROM `think_user` LIMIT 4,1   [ RunTime:0.000347s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006235s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006314s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000198s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000700s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000791s ]
+
+[ 2016-11-07T17:48:20+08:00 ] ::1 /app/index.php/Home/User/index/p/11.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000872s ]
+SQL: DESCRIBE think_user [ RunTime:0.002837s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000336s ]
+SQL: SELECT * FROM `think_user` LIMIT 10,1   [ RunTime:0.000557s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005681s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005831s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000217s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000567s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2016-11-07T17:48:23+08:00 ] ::1 /app/index.php/Home/User/index/p/12.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+SQL: DESCRIBE think_user [ RunTime:0.002086s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000337s ]
+SQL: SELECT * FROM `think_user` LIMIT 11,1   [ RunTime:0.000466s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005162s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005229s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000447s ]
+
+[ 2016-11-07T17:48:25+08:00 ] ::1 /app/index.php/Home/User/index/p/7.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000589s ]
+SQL: DESCRIBE think_user [ RunTime:0.002313s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000286s ]
+SQL: SELECT * FROM `think_user` LIMIT 6,1   [ RunTime:0.000252s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005465s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005535s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000118s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000562s ]
+
+[ 2016-11-07T17:48:27+08:00 ] ::1 /app/index.php/Home/User/index/p/9.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+SQL: DESCRIBE think_user [ RunTime:0.001489s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000271s ]
+SQL: SELECT * FROM `think_user` LIMIT 8,1   [ RunTime:0.000299s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004932s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004988s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000112s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000456s ]
+
+[ 2016-11-07T17:48:28+08:00 ] ::1 /app/index.php/Home/User/index/p/12.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+SQL: DESCRIBE think_user [ RunTime:0.002711s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000215s ]
+SQL: SELECT * FROM `think_user` LIMIT 11,1   [ RunTime:0.000239s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000021s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004699s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004757s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000112s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000390s ]
+
+[ 2016-11-07T17:48:30+08:00 ] ::1 /app/index.php/Home/User/index/p/11.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000713s ]
+SQL: DESCRIBE think_user [ RunTime:0.002764s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000286s ]
+SQL: SELECT * FROM `think_user` LIMIT 10,1   [ RunTime:0.000302s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005691s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005747s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000342s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000767s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000906s ]
+
+[ 2016-11-07T17:48:31+08:00 ] ::1 /app/index.php/Home/User/index/p/1.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000775s ]
+SQL: DESCRIBE think_user [ RunTime:0.001691s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000313s ]
+SQL: SELECT * FROM `think_user` LIMIT 0,1   [ RunTime:0.000270s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005267s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005325s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000399s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000445s ]
+
+[ 2016-11-07T17:48:35+08:00 ] ::1 /app/index.php/Home/User/index/p/8.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+SQL: DESCRIBE think_user [ RunTime:0.001785s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000344s ]
+SQL: SELECT * FROM `think_user` LIMIT 7,1   [ RunTime:0.000265s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005237s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005294s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000534s ]
+
+[ 2016-11-07T18:15:20+08:00 ] ::1 /app/index.php/Home/User/index/p/8.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001674s ]
+SQL: DESCRIBE think_user [ RunTime:0.004225s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000376s ]
+SQL: SELECT * FROM `think_user` LIMIT 7,1   [ RunTime:0.000282s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010551s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010648s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000518s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001150s ]
+
+[ 2016-11-07T18:16:07+08:00 ] ::1 /app/index.php/Home/User/index/p/8.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001655s ]
+SQL: DESCRIBE think_user [ RunTime:0.003172s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `think_user` LIMIT 1   [ RunTime:0.000317s ]
+SQL: SELECT * FROM `think_user` LIMIT 7,1   [ RunTime:0.000264s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010424s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010529s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000477s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001117s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001197s ]
+
