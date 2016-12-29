@@ -1,0 +1,65 @@
+<div id="right">
+    <div class="edit_tpl"><a class='set_model'></a></div> 
+
+<userinfo id='$_SESSION["uid"]'>
+  
+    <dl class="user_face">
+        <dt>
+            <a href="{:U('/' . $userinfo['uid'])}">
+            <if condition="$userinfo['face']">
+                <img src="__ROOT__/Uploads/{$userinfo['face']}" width='80' height='80' alt="{$userinfo['username']}" /><else/><img src="__PUBLIC__/Images/noface.gif" width='80' height='80' alt="{$userinfo['username']}" />
+                </if>
+            </a>
+        </dt>
+        <dd>
+            <a href="{:U('/' . $userinfo['uid'])}">{$userinfo['username']}</a>
+        </dd>
+    </dl>
+    <ul class='num_list'>
+        <li><a href="{:U('follow/' . $userinfo['uid'])}"><strong>{$userinfo['follow']}</strong><span>关注</span></a></li>
+        <li><a href="{:U('fans/' . $userinfo['uid'])}"><strong>{$userinfo['fans']}</strong><span>粉丝</span></a></li>
+        <li class='noborder'>
+            <a href="{:U('/' . $userinfo['uid'])}"><strong>{$userinfo['weibo']}</strong><span>微博</span></a>
+        </li>
+    </ul>
+</userinfo>
+    <div class="maybe">
+        <fieldset>
+        
+            <legend>可能感兴趣的人</legend>
+            <ul>
+
+            <maybe uid='$_SESSION["uid"]'>
+                
+                    <li>
+                        <dl>
+                            <dt>
+                                <a href="{:U('/' . $uid)}">
+                                <if condition="$face">
+                                    <img src="__ROOT__/Uploads/{$face}" width='30' height='30'/>
+                                    <else/><img src="__PUBLIC__/Images/noface.gif" width='30' height='30'/>
+                                    </if>
+                                </a>
+                            </dt>
+                            <dd><a href="{:U('/' . $uid)}">{$username}</a></dd>
+                            <dd>共{$count}个共同好友</dd>
+                        </dl>
+                        <span class='heed_btn add-fl' uid='{$uid}'><strong>+&nbsp;</strong>关注</span>
+                    </li>
+                
+                </maybe>
+            </ul>
+            
+        </fieldset>
+    </div>
+    <div class="post">
+        <div class='post_line'>
+            <span>公告栏</span>
+        </div>
+        <ul>
+            <li><a href="">择一城终老，遇一人白首</a></li>
+            <li><a href="">渔歌唱晚，枫桥夜泊</a></li>
+            <li><a href="">我就是我，不一样的烟火</a></li>
+        </ul>
+    </div>
+</div>
