@@ -1,0 +1,13 @@
+<include file='Common:userhome-hd' />
+		<link href="__PUBLIC__/Member/css/account.css" type="text/css" rel="stylesheet" >
+		<div class='setting-nav'>
+			<a class='active' href="">基本信息</a>
+			<a href="{:U('Member/Account/setAddress')}">收货地址</a>
+		</div>
+		<div class='baseinfo'>
+			<dl><dt>手机号： </dt><dd>{$user.phone}</dd><span></span></dl>
+			<dl><dt>邮　箱： </dt><dd>{$user.email}</dd></span></dl>
+			<dl><dt>用户名： </dt><dd>{$user.uname}</dd><span></span></dl>
+			<dl><dt>密　码： </dt><dd>{$user.password}</dd><span></span></span></dl>
+		</div>
+<include file='Common:userhome-ft' />

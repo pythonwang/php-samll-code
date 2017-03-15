@@ -1,0 +1,39 @@
+<include file='Common:header' />
+<div id="map">
+	<span class='title'>商铺列表</span>
+</div>
+<div id="content">
+	<table id="table" class='table table-striped table-bordered table-hover'>
+		<thead>
+			<tr>
+				<th width="15%">商铺名称</th>
+				<th width="25%">商铺地址</th>
+				<th width="25%">地铁地址</th>
+				<th width="15%">商家电话</th>
+				<th >操作</th>
+			</tr>
+		</thead>
+		<tbody>
+			<foreach name='shop' item='v'>
+				<tr>
+					<td>{$v.shopname}</td>
+					<td>{$v.shopaddress}</td>
+					<td>{$v.metroaddress}</td>
+					<td>{$v.shoptel}</td>
+					<td>
+						<a class="btn btn-primary btn-xs active" role="button" href="{:U('Goods/add',array('shopid' => $v['shopid']))}">添加商品</a>
+						<a class="btn btn-primary btn-xs active" role="button" href="{:U('Shop/edit',array('shopid' => $v['shopid']))}">编辑</a>
+						<a class="btn btn-primary btn-xs active delAffirm" role="button" href="{:U('Shop/del',array('shopid' => $v['shopid']))}">删除</a>
+					</td>
+				</tr>
+			</foreach>
+		</tbody>
+	</table>
+	
+	<div id="page" style="text-align: center;">
+		{$page}		
+	</div>
+</div>
+<script type="text/javascript" src='__PUBLIC__/Admin/js/common.js'></script>
+</body>
+</html>

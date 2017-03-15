@@ -1,0 +1,55 @@
+	<include file='Common:header' />
+	<!-- 载入公共头部文件-->
+	<!-- 载入商品筛选-->
+	<include file='Common:filter' />
+	<link href="__PUBLIC__/Home/css/index.css" type="text/css" rel="stylesheet" >
+	<!-- 页面主体开始 -->
+	<div id="main">
+		<div class='content'>
+			<foreach name="goods" item="v">
+			<div class='item'>
+				<div class='cover'>
+					<a href="{:U('Detail/index',array('gid' =>$v['gid']))}"><img src="__ROOT__/Uploads/{$v.goods_med_img}"/></a>
+				</div>
+				<a class='link' href="{:U('Index/Detail/index')}/gid/{$v.gid}">
+					<h3>{$v.main_title}</h3>
+					<p class='describe'>{$v.sub_title}</p>
+				</a>
+				<p class='detail'>
+					<strong>¥{$v.price}</strong>
+					<span>门店价<span>-</span><del>{$v.old_price}</del></span>
+					<a href="{:U('Detail/index',array('gid' =>$v['gid']))}"></a>
+				</p>
+				<p class='total'>
+					<strong>{$v.buy}</strong>
+					人已参与
+				</p>
+			</div>
+			</foreach>
+			<div class='c'></div>
+			<div class='page'>
+				{$page}
+			</div>
+		</div>
+		<div class='sidebar'>
+			<div class='hot-products'>
+				<h3>热卖商品</h3>
+				<ul>
+					<foreach name='hotgoods' item='k' key='w'>
+						<li>
+						<h6><span>{$w+1}</span><a href="">{$k.main_title}</a></h6>
+						<a href="{:U('Detail/index',array('gid' =>$k['gid']))}"><img src="__ROOT__/Uploads/{$k.goods_mini_img}"/></a>
+						<div class='info'>
+							<em>¥{$k.price}</em>
+							<p>每天<span>{$k.buy}</span>人团购</p>
+						</div>
+						</li>
+					</foreach>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class='c'></div>
+	<include file='Common:footer' />
+</body>
+</html>

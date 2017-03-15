@@ -1,0 +1,60 @@
+	<include file='Common:header' />
+	<!-- 载入公共头部文件-->
+	<link href="__PUBLIC__/Member/css/buy.css" type="text/css" rel="stylesheet" >
+	<div class='position'>
+		<form action="{:U('Member/Buy/checkbuy')}" method="post">
+		<div id="main">
+			<div class='step'>
+				<ul>
+					<li>1.查看购物车 </li>
+					<li class='current'>2.选择支付方式 </li>
+					<li>3.购买成功 </li>
+				</ul>
+			</div>
+			<ul class='buy-detail'>
+			<table class='buy-table' border=0>
+			<thead>
+				<tr>
+					<th width='38%'>商品名称</th>
+					<th width='20%'>数量</th>
+					<th width='20%'>单价</th>
+					<th width='20%'>小计</th>
+				</tr>
+			</thead>
+				<foreach name="order" item="v">
+				<input type="hidden" name='orderid[]' value="{$v.orderid}" >
+				
+			<tbody>
+				<tr>
+					<td class='goods-show'>
+					<img src="__ROOT__/Uploads/{$v.goods_mini_img}">
+						{$v.main_title}
+					</td>
+					<td class='goods-num'>
+						{$v.goods_num}
+					</td>
+					<td>{$v.price}</td>
+					<td>{$v.total_money}</td>
+				</tr>
+			
+				
+				</foreach>
+				<tr>
+					<td></td>
+					
+					<td colspan=3 class="total">
+						应付总额： <strong>¥<span>{$sumprice}</span></strong> &nbsp; &nbsp; &nbsp; &nbsp;账户余额：<strong>¥<span>{$balance}</span></strong>
+					</td>
+				</tr>
+			</tbody>
+			</table>
+			</ul>
+			<!-- 订单提交 -->
+			<div class='bottom'>
+				<input type="submit" class='submit' value="确认支付">
+			</div>
+		</div>
+		</form>
+	</div>	
+</body>
+</html>

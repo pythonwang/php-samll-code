@@ -1,0 +1,72 @@
+<!-- 商品过滤开始 -->
+	<div id="filter">
+		<div class='hots'>
+			<span>热门团购：</span>
+			<div class='box'>
+				<foreach name='hotgroup' item='v'>
+					<a href="{:U('Home/Index/index')}/cid/{$v.cid}">{$v.cname}</a>
+				</foreach>
+			</div>	
+		</div>
+		
+		<div class='filter-box'>
+			<div class='category filter-label'>
+				<div class='filter-label-level-1'>
+					<span><b></b>分类：</span>
+					<div class='box'>
+						<foreach name="topcate" item="v">
+							{$v}
+						</foreach>
+					</div>
+				</div>
+				<if condition="isset($soncate)">
+				<div class='filter-label-level-2'>
+					<div class='box'>
+						<foreach name="soncate" item="v">
+							{$v}
+						</foreach>
+					</div>
+				</div>
+				</if>
+			</div>
+			<div class='locality filter-label'>
+				<div class='filter-label-level-1'>
+					<span><b></b>区域：</span>
+					<div class='box'>
+						<foreach name="toplocal" item="v">
+							{$v}
+						</foreach>
+					</div>
+				</div>
+				<if condition="isset($sonlocal)">
+					<div class='filter-label-level-2'>
+						<div class='box'>
+							<foreach name="sonlocal" item="v">
+								{$v}
+							</foreach>
+						</div>
+					</div>
+				</if>
+			</div>
+			<div class='price filter-label'>
+				<div class='filter-label-level-1'>
+					<span><b></b>价格：</span>
+					<div class='box'>
+						<foreach name="price" item="v">
+							{$v}
+						</foreach>
+					</div>
+				</div>
+			</div>	
+			<div class='screen'>
+				<div>
+					<a class='active' href="{$orderurl['d']}">默认排序</a>
+					<a href="{$orderurl['b']}">销量<b></b></a>
+					<a href="{$orderurl['pd']}">价格<b></b></a>
+					<a href="{$orderurl['pa']}">价格<b style="background-position:-45px -16px;"></b></a>
+					<a style="border:0;" href="{$orderurl['t']}">发布时间<b></b></a>
+				</div>
+			</div>
+		</div>	
+	</div>
+	<!-- 商品过滤结束 -->

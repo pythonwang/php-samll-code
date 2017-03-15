@@ -1,0 +1,77 @@
+<include file='Common:userhome-hd' />
+		<link href="__PUBLIC__/Member/css/order.css" type="text/css" rel="stylesheet" >
+		<div class='order-nav'>
+		<foreach name='menu' item='v'>
+			{$v}
+			</foreach>
+		</div>
+		<div class='order-list'>
+			<if condition="$order">
+			<table>
+				<thead>
+					<tr>
+						<th width="50%">团购项目</th>
+						<th width="10%">数量</th>
+						<th width="10%">金额</th>
+						<th width="15%">订单状态</th>
+						<th width="15%">操作</th>
+					</tr>
+				</thead>
+				<tbody>
+					
+					
+					<foreach name="order" item="v">
+					<tr>
+						<td class='goods-show'>
+							<img src="__ROOT__/Uploads/{$v.goods_mini_img}">
+							<a href="{:U('Home/Detail/index')}/gid/{$v.gid}">{$v.main_title}</a>
+						</td>
+						<td>
+							{$v.goods_num}
+						</td>
+						<td>
+							¥{$v.zongji}
+						</td>
+						<td>
+							<span>{$v.status}</span><br/>
+							<a href="{:U('Home/Detail/index')}/gid/{$v.gid}" >订单详情</a>
+						</td>
+						<td>
+							<if condition="$v['status'] eq '未付款'">
+								<a class='btn' href="{:U('Member/Buy/payment')}/oid/{$v.orderid}">付款</a><br/>
+							</if>
+							
+							<a href="{:U('Member/Order/del')}/oid/{$v.orderid}">删除订单</a>
+						</td>
+					</tr>
+					</foreach>
+					
+				</tbody>
+			</table>
+			<else/>
+				没有订单信息！
+			</if>
+		</div>
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<include file='Common:userhome-ft' />

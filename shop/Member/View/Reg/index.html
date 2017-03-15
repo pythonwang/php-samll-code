@@ -1,0 +1,52 @@
+	<include file='Common:header'/>
+	<!-- 载入公共头部文件-->
+	
+	<link rel="stylesheet" href="__PUBLIC__/Member/css/regis.css" />
+	<js file='__PUBLIC__/Member/js/jquery-1.7.2.min.js'/>
+	<js file='__PUBLIC__/Member/js/jquery-validate.js'/>
+	<script type="text/javascript">
+		var checkAccount = "{:U('checkAccount')}";
+		var checkUsername = "{:U('checkUsername')}";
+		var checkVerify = "{:U('checkVerify')}";
+	</script>
+	<js file='__PUBLIC__/Member/js/register.js'/>
+	
+	<div id='reg-wrap'>
+		<div class='header'>
+			已有本站账号?&nbsp;<a href="{:U('Login/index')}">登录</a>
+		</div>
+		
+	     
+		<form action="{:U('runRegis')}" method='post' name='register' >
+			<fieldset>
+				<h4>用户注册</h4>
+				<p id="zhanghao">
+					<label for="account">邮箱：</label>
+					<input type="text" name='account' id='account' class='input'/>
+				</p>
+				<p>
+					<label for="pwd">创建密码：</label>
+					<input type="password" name='password' id='password' class='input'/>
+				</p>
+				<p>
+					<label for="pwded">确认密码：</label>
+					<input type="password" name='repassword' class='input'/>
+				</p>
+				<p>
+					<label for="uname">昵称：</label>
+					<input type="text"  name='username' id='username' class='input'/>
+				</p>
+				<p>
+					<label for="verify">验证码：</label>
+					<input type="text" name='verify' class='input' id='verify'/>
+					<img src="{:U('verifyImage')}" onClick="this.src=this.src+'?'+Math.random()"  alt="" />
+				</p>
+				<p class='run'>
+					<input type="submit" value='马上注册' id='regis' />
+				</p>
+			</fieldset>
+		</form>
+		</div>
+	</div>
+</body>
+</html>
