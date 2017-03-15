@@ -1,0 +1,69 @@
+<include file='Common:header' />
+	<link rel="stylesheet" href="__PUBLIC__/Home/Css/list.css" />
+	<script type="text/javascript">
+		var delblog = '{:U("delblog")}';
+	</script>
+	
+<!--头部-->
+	</head>
+<body>
+<!--头部-->
+	
+
+
+	
+<php>
+	$cate = M('cate')->order('sort')->select();
+	$cate = unlimitedforlayer($cate);
+	
+</php>
+
+	<div class='top-nav-wrap'>
+		<ul class='nav-lv1'>
+			<li class='nav-lv1-li'>
+				<a href="__ROOT__" class='top-cate'>博客首页</a>
+			</li>
+			
+			<li class='nav-lv1-li'>
+				<a href="{:U('trash')}" class='top-cate'>回收站({$count})</a>
+				
+				
+			</li>
+			</foreach>
+			
+		</ul>
+	</div>
+<!--主体-->
+
+	<div class='main'>
+	<p style="font-size: 18px;">&nbsp;我的博客：</p>
+		<div class='main-left'>
+		<foreach name='blog' item='v'>
+			<dl class="del">
+				<dt>{$v.name}</dt>
+				<dd class='channel'>{$v.title}</dd>
+				<dd class='info'>
+					<span class='time'>发布于：{$v.time|time_format=###}</span>
+					<span class='click'>点击:{$v.click}</span>
+
+				</dd>
+				<dd class='content'>{$v.summary}</dd>
+				
+				<dd style="text-indent:500px;height: 22px;">
+				<span><a style="color: #2B96E1;" href="{:U('change',array('id' => $v['id']))}">[修改]</a></span>
+				<span class='del-blog' did='{$v.id}' style="color: #2B96E1;cursor: pointer;">[删除]</span>
+				</dd>
+				
+				<dd class='read'>
+					<a href="{:U('/show/' . $v['id'])}" target="_blank">阅读全文>></a>
+				</dd>
+			</dl>
+			</foreach>
+			<p>{$page}</p>
+		</div>
+	<!--主体右侧-->
+		<include file='Common:right' />
+	</div>
+<!--底部-->
+<script type="text/javascript" src='__PUBLIC__/Home/Js/delblog.js'></script>
+	<include file='Common:bottom' />

@@ -1,0 +1,28 @@
+<include file='Common:header' />
+	<link rel="stylesheet" href="__PUBLIC__/Home/Css/index.css" />
+<include file='Common:nav' />
+<!--主体-->
+	<div class='main'>
+		<div class='main-left'>
+			<p>后盾博文</p>
+			<foreach name='topcate' item='v'>
+			<dl>
+				<dt>{$v.name}<a href="{:U('/more/' . $v['id'])}">更多>></a></dt>
+				<foreach name='v.blog' item='k'>
+				<dd>
+					<a href="{:U('/show/' . $k['id'])}" target="_blank">{$k.title}</a>
+					<if condition="$k['username'] neq null">
+					<span>作者：{$k.username} &nbsp;&nbsp;&nbsp;{$k.time|date='m/d',###}</span>
+					<else/>
+					<span>作者：管理员 &nbsp;&nbsp;&nbsp;{$k.time|date='m/d',###}</span>
+					</if>
+				</dd>
+				</foreach>
+			</dl>
+			</foreach>
+		</div>
+	<!--主体右侧-->
+		<include file='Common:right' />
+	</div>
+<!--底部-->
+<include file='Common:bottom' />

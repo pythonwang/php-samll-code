@@ -1,0 +1,38 @@
+<include file='Common:header' />
+	<link rel="stylesheet" href="__PUBLIC__/Home/Css/show.css" />
+	<link rel="stylesheet" href="__PUBLIC__/Ueditor/third-party/SyntaxHighlighter/shCoreDefault.css" />
+	<script type="text/javascript" src='__PUBLIC__/Ueditor/third-party/SyntaxHighlighter/shCore.js'></script>
+	<script type="text/javascript">
+		SyntaxHighlighter.all();
+	</script>
+
+	
+<!--头部-->
+	<include file='Common:nav' />
+
+<!--主体-->
+	<div class='main'>
+		<div class='main-left'>
+			<div class='location'>
+				<a href="">首页</a>>
+				<php> $last = count($parent) -1;</php>
+				<foreach name='parent' item='v'>
+				<a href="{:U('/more/' . $v['id'])}">{$v.name}</a><if condition='$key neq $last'>></if>
+				</foreach>
+			</div>
+			<div class="title">
+				<p>{$blog.title}</p>
+				<div>
+					<span class='fl'>作者：{$blog.username}&nbsp;&nbsp;&nbsp;发布于：{$blog.time|time_format=###}</span>
+					<span class='fr'>已被阅读{$blog.click}次</span>
+				</div>
+			</div>
+			<div class='content' style="word-break: break-all;">
+				{$blog.content}
+			</div>
+		</div>
+	<!--主体右侧-->
+		<include file='Common:right' />
+	</div>
+<!--底部-->
+	<include file='Common:bottom' />

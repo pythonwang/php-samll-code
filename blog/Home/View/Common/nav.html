@@ -1,0 +1,64 @@
+</head>
+<body>
+<!--头部-->
+	<div class='top-list-wrap'>
+		<div class='top-list'>
+			<ul class='l-list'>
+				<li><a href="{:U('Admin/Index/index')}" target='_blank'>时光博客</a></li>
+				<li><a href="#" target='_blank'>时光博客</a></li>
+				<li><a href="#" target='_blank'>时光博客</a></li>
+			</ul>
+			<ul class='r-list'>
+				<li><a href="#" target='_blank'>时光博客</a></li>
+				<li><a href="时光博客" target='_blank'>时光博客</a></li>
+			</ul>
+		</div>
+	</div>
+
+
+	<div class='top-search-wrap'>
+		<div class='top-search'>
+			<a href="__ROOT__" target='_blank' class='logo'>
+				<img src="__PUBLIC__/Home/Images/logo.png"/>
+			</a>
+			<div class='search-wrap'>
+				<form action="{:U('Index/sechblog')}" method='get'>
+					<input type="text" name='keyword' class='search-content'/>
+					<input type="submit" name='sech' value='搜索'/>
+				</form>
+			</div>
+		</div>
+	</div>
+<php>
+	$cate = M('cate')->order('sort')->select();
+	$cate = unlimitedforlayer($cate);
+	
+</php>
+
+	<div class='top-nav-wrap'>
+		<ul class='nav-lv1'>
+			<li class='nav-lv1-li'>
+				<a href="__ROOT__" class='top-cate'>博客首页</a>
+			</li>
+			<foreach name='cate' item ='v'>
+			<li class='nav-lv1-li'>
+				<a href="{:U('/more/' . $v['id'])}" class='top-cate'>{$v.name}</a>
+				
+				<if condition='$v["child"]'>
+					<ul>
+						<foreach name='v.child' item ='k'>
+							<li><a href="{:U('/more/' . $k['id'])}">{$k.name}</a></li>
+						</foreach>
+					</ul>
+				</if>
+			</li>
+			</foreach>
+			<!--<li class='nav-lv1-li'>
+			<a href="{:U('Admin/Blog/blog')}" target="_blank" class='top-cate'>发布博文</a>
+			<ul>
+				<li><a href="{:U('Login/index')}">管理员登录</a>
+				</li>
+			</ul>
+			</li>-->
+		</ul>
+	</div>

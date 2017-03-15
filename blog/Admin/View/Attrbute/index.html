@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<css file='__PUBLIC__/Admin/Css/Public.css' />
+</head>
+<body>
+	<table class="table">
+		<tr>
+			<th>ID</th>
+			<th>属性名称</th>
+			<th>颜色</th>
+			<th>操作</th>
+		</tr>
+		<foreach name='attr' item='v'>
+			<tr>
+				<td>{$v.id}</td>
+				<td>{$v.name}</td>
+				<td>
+					<div style="width: 20px;height: 20px;background: {$v.color}"></div>
+				</td>
+				<td>
+					[<a href="">删除</a>]
+					[<a href="">修改</a>]
+				</td>
+			</tr>
+		</foreach>
+	</table>
+</body>
+</html>

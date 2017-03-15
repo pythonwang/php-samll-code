@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<css file='__PUBLIC__/Admin/Css/public.css' />
+</head>
+<body>
+	<table class="table">
+		<tr >
+			<th style="text-align:center;">ID</th>
+			<th style="text-align:center;">标题</th>
+			<th style="text-align:center;">所属分类</th>
+			<th style="text-align:center;">点击次数</th>
+			<th style="text-align:center;">发布时间</th>
+			<th style="text-align:center;">操作</th>
+		</tr>
+		<foreach name='blog' item='v'>
+			<tr>
+				<td width="8%" style="text-align:center;">{$v.id}</td>
+				<td width="35%"><foreach name='v.attr' item='k'>
+						<strong style="color: {$k.color}">[{$k.name}]</strong>
+				</foreach>{$v.title}
+				</td>
+				<td style="text-align:center;width: 15%">{$v.cate}</td>
+				<td style="text-align:center;width: 9%">{$v.click}</td>
+				<td style="text-align:center;">{$v.time|date='Y-m-d H:i',###}</td>
+				<td style="text-align:center;width: 15%">
+				<if condition='ACTION_NAME eq "index"'>
+					[<a href="">修改</a>]
+					[<a href="{:U('totrach',array('id' => $v['id'],'type' =>1))}">删除</a>]
+				<else/>
+					[<a href="{:U('totrach',array('id' => $v['id'],'type' =>0))}">还原</a>]
+					[<a href="{:U('delete',array('id' => $v['id']))}">彻底删除</a>]
+					</if>
+				</td>
+			</tr>
+		</foreach>
+		<if condition='ACTION_NAME eq "index"'>
+		<else/>
+		<tr>
+			<td colspan="6" align="center" height="40px">
+					<a style="color: green;font-size:18px" href="{:U('alldel')}">清空回收站</a>
+				</td>
+		</tr>
+		</if>
+	</table>
+</body>
+</html>

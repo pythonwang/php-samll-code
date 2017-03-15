@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<css file='__PUBLIC__/Admin/Css/public.css' />
+	
+	<script type="text/javascript" src='__PUBLIC__/Ueditor/ueditor.config.js'></script>
+	<script type="text/javascript" src='__PUBLIC__/Ueditor/ueditor.all.min.js'></script>
+	<script type="text/javascript">
+	window.UEDITOR_HOME_URL = "__ROOT__/Public/Ueditor/";
+	window.onload = function () {
+		window.UEDITOR_CONFIG.imageUrl="{:U('upload')}";
+		window.UEDITOR_CONFIG.imagePathFormat='__PUBLIC__/Uploads/image/';
+		//自定义请求地址
+            UE.Editor.prototype._bkGetActionUrl = UE.Editor.prototype.getActionUrl;
+            UE.Editor.prototype.getActionUrl = function(action) {
+                if (action == 'uploadimage') {    //上传图片
+                      return "{:U('upload',array('action'=>'uploadimage'),'')}";
+                } else  if(action == 'config') {    //加载配置
+                        return this._bkGetActionUrl.call(this, action);
+                }
+            }             
+            //自定义请求地址结束
+		 
+		UE.getEditor('content',{ initialFrameHeight: 300,initialFrameWidth: 900});
+	}
+	</script>
+</head>
+<body>
+
+	<form action="{:U('upblog',array('id' =>$id))}" method="post">
+		<table class="table">
+			<tr>
+				<th style="border-right:none;text-align: left;color: blue;"><a href="__ROOT__">博客首页</a></th>
+				<th style="border-left:none;">博文发布</th>
+			</tr>
+			<tr>
+				<td align="right" width="10%">所属分类：</td>
+				<td>
+					选择：<select name="cid">
+					<foreach name='kind' item='k'>
+						<option value="{$cid}">{$k.name}</option>
+						</foreach>
+						<foreach name='cate' item='v'>
+
+						<option value="{$v.id}">{$v.html}{$v.name}</option>
+						</foreach>
+					</select>
+				</td>
+			</tr>
+			
+			<foreach name='blog' item='b'>
+			<tr>
+				<td align="right">博文标题：</td>
+				<td>
+					<input type="text" name="title" value='{$b.title}' />
+				</td>
+			</tr>
+			<tr>
+				<td align="right">博文摘要：</td>
+				<td>
+					<input type="text" name="summary" value='{$b.summary}'/>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<textarea name="content" id="content" >{$b.content|htmlspecialchars_decode}</textarea>
+				</td>
+			</tr>
+			<tr>
+			</foreach>
+				<td align="center" colspan="2">
+					<input style="color: #6583ff;cursor: pointer;" type="submit" value="修改博文" />
+				</td>
+			</tr>
+		</table>
+	</form>
+</body>
+</html>

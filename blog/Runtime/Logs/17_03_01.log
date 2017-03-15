@@ -1,0 +1,237 @@
+[ 2017-03-01T10:16:36+08:00 ] ::1 /app/blog/Admin/Index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001739s ]
+
+[ 2017-03-01T10:16:36+08:00 ] ::1 /app/blog/index.php/Admin/Login/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000185s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009025s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009137s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000572s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001171s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001235s ]
+
+[ 2017-03-01T10:16:36+08:00 ] ::1 /app/blog/index.php/Admin/Login/verify
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000785s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000852s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000979s ]
+
+[ 2017-03-01T10:16:51+08:00 ] ::1 /app/blog/index.php/Admin/Login/login
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001083s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `tm_user` [ RunTime:0.002227s ]
+SQL: SELECT * FROM `tm_user` WHERE ( `username` = 'admin' ) LIMIT 1   [ RunTime:0.007520s ]
+SQL: UPDATE `tm_user` SET `logintime`=1488334611,`loginip`='0.0.0.0' WHERE ( `id` = 1 ) [ RunTime:0.001914s ]
+
+[ 2017-03-01T10:16:51+08:00 ] ::1 /app/blog/index.php/Admin/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006259s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006321s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000179s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000531s ]
+
+[ 2017-03-01T10:16:51+08:00 ] ::1 /app/blog/index.php/Admin/Index/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000948s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006186s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006251s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000426s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-03-01T10:16:55+08:00 ] ::1 /app/blog/index.php/Admin/Blog/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000892s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `tm_blog` [ RunTime:0.001545s ]
+SQL: SELECT `id`,`title`,`content`,`summary`,`time`,`click`,`cid`,`uid` FROM `tm_blog` WHERE ( `del` = 0 )  [ RunTime:0.001573s ]
+SQL: SHOW COLUMNS FROM `tm_attr` [ RunTime:0.001464s ]
+NOTIC: [8] Undefined index: mapping_order /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 190 行.
+NOTIC: [8] Undefined index: mapping_limit /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 191 行.
+SQL: SELECT b.* FROM tm_blogattr AS a, tm_attr AS b WHERE a.aid = b.id AND a. bid='13' [ RunTime:0.005300s ]
+SQL: SHOW COLUMNS FROM `tm_cate` [ RunTime:0.001403s ]
+SQL: SELECT `name` FROM `tm_cate` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.003704s ]
+NOTIC: [8] Undefined index: mapping_order /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 190 行.
+NOTIC: [8] Undefined index: mapping_limit /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 191 行.
+SQL: SELECT b.* FROM tm_blogattr AS a, tm_attr AS b WHERE a.aid = b.id AND a. bid='15' [ RunTime:0.000308s ]
+SQL: SELECT `name` FROM `tm_cate` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.000233s ]
+NOTIC: [8] Undefined index: mapping_order /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 190 行.
+NOTIC: [8] Undefined index: mapping_limit /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 191 行.
+SQL: SELECT b.* FROM tm_blogattr AS a, tm_attr AS b WHERE a.aid = b.id AND a. bid='16' [ RunTime:0.000254s ]
+SQL: SELECT `name` FROM `tm_cate` WHERE ( 1=1 AND id='3' ) LIMIT 1   [ RunTime:0.000151s ]
+NOTIC: [8] Undefined index: mapping_order /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 190 行.
+NOTIC: [8] Undefined index: mapping_limit /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 191 行.
+SQL: SELECT b.* FROM tm_blogattr AS a, tm_attr AS b WHERE a.aid = b.id AND a. bid='17' [ RunTime:0.000189s ]
+SQL: SELECT `name` FROM `tm_cate` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.000126s ]
+NOTIC: [8] Undefined index: mapping_order /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 190 行.
+NOTIC: [8] Undefined index: mapping_limit /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 191 行.
+SQL: SELECT b.* FROM tm_blogattr AS a, tm_attr AS b WHERE a.aid = b.id AND a. bid='18' [ RunTime:0.000183s ]
+SQL: SELECT `name` FROM `tm_cate` WHERE ( 1=1 AND id='5' ) LIMIT 1   [ RunTime:0.000146s ]
+NOTIC: [8] Undefined index: mapping_order /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 190 行.
+NOTIC: [8] Undefined index: mapping_limit /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 191 行.
+SQL: SELECT b.* FROM tm_blogattr AS a, tm_attr AS b WHERE a.aid = b.id AND a. bid='19' [ RunTime:0.000183s ]
+SQL: SELECT `name` FROM `tm_cate` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.000123s ]
+NOTIC: [8] Undefined index: mapping_order /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 190 行.
+NOTIC: [8] Undefined index: mapping_limit /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 191 行.
+SQL: SELECT b.* FROM tm_blogattr AS a, tm_attr AS b WHERE a.aid = b.id AND a. bid='20' [ RunTime:0.000165s ]
+SQL: SELECT `name` FROM `tm_cate` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.000226s ]
+NOTIC: [8] Undefined index: mapping_order /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 190 行.
+NOTIC: [8] Undefined index: mapping_limit /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 191 行.
+SQL: SELECT b.* FROM tm_blogattr AS a, tm_attr AS b WHERE a.aid = b.id AND a. bid='21' [ RunTime:0.000286s ]
+SQL: SELECT `name` FROM `tm_cate` WHERE ( 1=1 AND id='8' ) LIMIT 1   [ RunTime:0.000145s ]
+NOTIC: [8] Undefined index: mapping_order /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 190 行.
+NOTIC: [8] Undefined index: mapping_limit /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 191 行.
+SQL: SELECT b.* FROM tm_blogattr AS a, tm_attr AS b WHERE a.aid = b.id AND a. bid='22' [ RunTime:0.000286s ]
+SQL: SELECT `name` FROM `tm_cate` WHERE ( 1=1 AND id='11' ) LIMIT 1   [ RunTime:0.000251s ]
+NOTIC: [8] Undefined index: mapping_order /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 190 行.
+NOTIC: [8] Undefined index: mapping_limit /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 191 行.
+SQL: SELECT b.* FROM tm_blogattr AS a, tm_attr AS b WHERE a.aid = b.id AND a. bid='23' [ RunTime:0.000239s ]
+SQL: SELECT `name` FROM `tm_cate` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.000171s ]
+NOTIC: [8] Undefined index: mapping_order /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 190 行.
+NOTIC: [8] Undefined index: mapping_limit /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 191 行.
+SQL: SELECT b.* FROM tm_blogattr AS a, tm_attr AS b WHERE a.aid = b.id AND a. bid='24' [ RunTime:0.000209s ]
+SQL: SELECT `name` FROM `tm_cate` WHERE ( 1=1 AND id='10' ) LIMIT 1   [ RunTime:0.000128s ]
+NOTIC: [8] Undefined index: mapping_order /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 190 行.
+NOTIC: [8] Undefined index: mapping_limit /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 191 行.
+SQL: SELECT b.* FROM tm_blogattr AS a, tm_attr AS b WHERE a.aid = b.id AND a. bid='25' [ RunTime:0.000174s ]
+SQL: SELECT `name` FROM `tm_cate` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.000159s ]
+NOTIC: [8] Undefined index: mapping_order /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 190 行.
+NOTIC: [8] Undefined index: mapping_limit /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 191 行.
+SQL: SELECT b.* FROM tm_blogattr AS a, tm_attr AS b WHERE a.aid = b.id AND a. bid='26' [ RunTime:0.000171s ]
+SQL: SELECT `name` FROM `tm_cate` WHERE ( 1=1 AND id='12' ) LIMIT 1   [ RunTime:0.000126s ]
+NOTIC: [8] Undefined index: mapping_order /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 190 行.
+NOTIC: [8] Undefined index: mapping_limit /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 191 行.
+SQL: SELECT b.* FROM tm_blogattr AS a, tm_attr AS b WHERE a.aid = b.id AND a. bid='27' [ RunTime:0.000182s ]
+SQL: SELECT `name` FROM `tm_cate` WHERE ( 1=1 AND id='10' ) LIMIT 1   [ RunTime:0.000157s ]
+NOTIC: [8] Undefined index: mapping_order /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 190 行.
+NOTIC: [8] Undefined index: mapping_limit /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 191 行.
+SQL: SELECT b.* FROM tm_blogattr AS a, tm_attr AS b WHERE a.aid = b.id AND a. bid='46' [ RunTime:0.000169s ]
+SQL: SELECT `name` FROM `tm_cate` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.000137s ]
+NOTIC: [8] Undefined index: mapping_order /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 190 行.
+NOTIC: [8] Undefined index: mapping_limit /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 191 行.
+SQL: SELECT b.* FROM tm_blogattr AS a, tm_attr AS b WHERE a.aid = b.id AND a. bid='52' [ RunTime:0.000170s ]
+SQL: SELECT `name` FROM `tm_cate` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.000192s ]
+NOTIC: [8] Undefined index: mapping_order /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 190 行.
+NOTIC: [8] Undefined index: mapping_limit /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Model/RelationModel.class.php 第 191 行.
+SQL: SELECT b.* FROM tm_blogattr AS a, tm_attr AS b WHERE a.aid = b.id AND a. bid='53' [ RunTime:0.000220s ]
+SQL: SELECT `name` FROM `tm_cate` WHERE ( 1=1 AND id='2' ) LIMIT 1   [ RunTime:0.000154s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010238s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010312s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000854s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001039s ]
+
+[ 2017-03-01T10:17:01+08:00 ] ::1 /app/blog/index.php/Admin/Category/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001041s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `tm_cate` [ RunTime:0.001760s ]
+SQL: SELECT * FROM `tm_cate` ORDER BY sort ASC  [ RunTime:0.000440s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009818s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009911s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000545s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000591s ]
+
+[ 2017-03-01T10:17:06+08:00 ] ::1 /app/blog/index.php/Admin/Category/addcate
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001029s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010101s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010217s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000838s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000921s ]
+
+[ 2017-03-01T10:17:08+08:00 ] ::1 /app/blog/index.php/Admin/Category/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001221s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/XAMPP/xamppfiles/htdocs/app/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `tm_cate` [ RunTime:0.002790s ]
+SQL: SELECT * FROM `tm_cate` ORDER BY sort ASC  [ RunTime:0.000405s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008349s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008441s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000180s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000535s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000621s ]
+
+[ 2017-03-01T10:17:22+08:00 ] ::1 /app/blog/index.php/Admin/Category/addcate/pid/9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005388s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005503s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000530s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000593s ]
+

@@ -1,0 +1,31 @@
+<include file='Common:header' />
+	<link rel="stylesheet" href="__PUBLIC__/Home/Css/list.css" />
+	
+<!--头部-->
+	<include file='Common:nav' />
+
+<!--主体-->
+	<div class='main'>
+	<p style="color: #2c771e;height: 20px;">&nbsp;搜索结果：{$count}条</p>
+		<div class='main-left'>
+		<foreach name='blog' item='v'>
+			<dl>
+				<dt>{$v.name}</dt>
+				<dd class='channel'>{$v.title}</dd>
+				<dd class='info'>
+					<span class='time'>发布于：{$v.time|time_format=###}</span>
+					<span class='click'>点击:{$v.click}</span>
+				</dd>
+				<dd class='content'>{$v.summary}</dd>
+				<dd class='read'>
+					<a href="{:U('/show/' . $v['id'])}" target="_blank">阅读全文>></a>
+				</dd>
+			</dl>
+			</foreach>
+			<p>{$page}</p>
+		</div>
+	<!--主体右侧-->
+		<include file='Common:right' />
+	</div>
+<!--底部-->
+	<include file='Common:bottom' />

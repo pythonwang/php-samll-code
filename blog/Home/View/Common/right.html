@@ -1,0 +1,41 @@
+<div class='main-right'>
+<dl>
+	<php>
+	if(isset($_SESSION['uid'])){
+		$user = M('user')->where(array('id' =>session('uid')))->select();
+		}
+	</php>
+			
+				<if condition='isset($_SESSION["uid"])'>
+				<foreach name='user' item='v'>
+				<dd style="height: 60px;line-height:60px;">
+					<span style=""><a style="margin-left: 80px; font-size: 25px;" href="#">{$v.username}</a>
+					<a style="font-size: 15px; color:#367113;" href="{:U('Mblog/logout')}">&nbsp;&nbsp;&nbsp;&nbsp;[退出]</a></span>
+				</dd>
+				</foreach>
+				<else/><dd style="height: 60px;line-height:60px;">
+					<a style="margin-left:110px;font-size: 20px;color:#367113;" href="{:U('Login/index')}" target="_blank">登录?</a>
+				</dd>
+				</if>
+				<dd style="height: 30px;font-size: 20px;">
+					<a style="margin-left: 50px;color: black;" href="{:U('Mblog/blog')}">发布博文</a>&nbsp;&nbsp;&nbsp;&nbsp;<a style="color: black;" href="{:U('Mblog/myshow')}">我的博客</a>
+				</dd>
+				
+			</dl>
+{:W('Hot/menu')}
+			
+{:W('Hot/newest')}
+			<dl>
+				<dt>友情连接</dt>
+				<dd>
+					<a href="www.timeblog.online:8888" target="_blank">时光微博</a>
+				</dd>
+
+				<dd>
+					<a href="">许愿墙</a>
+				</dd>
+				<dd>
+					<a href="">待定。。。</a>
+				</dd>
+			</dl>
+		</div>
